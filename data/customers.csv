@@ -1,0 +1,3001 @@
+Customer_ID,Parish,Age,Employment_Status,Annual_Income,Risk_Profile,KYC_Status
+1,Manchester,55,Unemployed,3815624,Medium,Verified
+2,Clarendon,65,Unemployed,7353968,Medium,Pending
+3,St. James,29,Unemployed,4937192,High,Verified
+4,Clarendon,58,Self-Employed,2932162,High,Verified
+5,Clarendon,50,Unemployed,4917386,Low,Verified
+6,St. Catherine,64,Unemployed,2495625,Medium,Verified
+7,St. James,54,Unemployed,5773232,Medium,Verified
+8,St. James,52,Employed,2762160,High,Verified
+9,St. James,23,Employed,2534872,Low,Verified
+10,Clarendon,23,Self-Employed,2451722,Medium,Verified
+11,Manchester,48,Employed,7682749,Low,Pending
+12,St. James,64,Self-Employed,5031797,High,Verified
+13,Clarendon,35,Employed,7816611,Low,Pending
+14,St. Catherine,61,Unemployed,4637478,Low,Verified
+15,Manchester,43,Employed,7626036,Low,Pending
+16,St. Catherine,60,Self-Employed,4824537,Low,Pending
+17,Manchester,31,Employed,3580877,Medium,Verified
+18,Clarendon,68,Unemployed,3420390,Low,Verified
+19,Kingston,52,Self-Employed,3831863,Low,Verified
+20,Manchester,56,Unemployed,1950311,High,Rejected
+21,St. Catherine,53,Unemployed,2395776,Low,Verified
+22,Clarendon,44,Self-Employed,2868535,Medium,Verified
+23,Manchester,59,Unemployed,3917173,Low,Verified
+24,Kingston,54,Unemployed,5625885,Low,Rejected
+25,Kingston,48,Employed,4044811,High,Verified
+26,St. James,57,Unemployed,6680823,Medium,Verified
+27,St. James,27,Unemployed,3833932,Low,Verified
+28,St. Catherine,24,Unemployed,1421747,High,Rejected
+29,Manchester,57,Unemployed,3295902,High,Verified
+30,Manchester,21,Self-Employed,3644517,High,Verified
+31,St. James,21,Employed,2081258,Low,Verified
+32,Manchester,67,Unemployed,5423190,Low,Verified
+33,Manchester,40,Unemployed,5223475,Medium,Pending
+34,Kingston,39,Self-Employed,4319567,Medium,Verified
+35,St. James,49,Unemployed,5161862,Low,Verified
+36,Clarendon,30,Self-Employed,1783061,Medium,Pending
+37,St. James,38,Employed,1096412,Low,Rejected
+38,Clarendon,48,Employed,7198794,Low,Verified
+39,Kingston,55,Unemployed,3371703,Low,Verified
+40,St. Catherine,63,Unemployed,3185632,Medium,Pending
+41,Manchester,67,Unemployed,3687225,Low,Verified
+42,Kingston,51,Self-Employed,4032860,High,Rejected
+43,Manchester,47,Unemployed,6337983,Medium,Rejected
+44,St. Catherine,31,Unemployed,7235834,Medium,Verified
+45,St. Catherine,69,Employed,7268710,High,Rejected
+46,Kingston,69,Unemployed,3495563,Medium,Verified
+47,St. Catherine,58,Employed,2298118,High,Verified
+48,Clarendon,25,Unemployed,2600831,Low,Verified
+49,St. Catherine,28,Employed,2394362,Low,Pending
+50,Manchester,54,Unemployed,4540214,Low,Verified
+51,Manchester,68,Employed,2868710,Low,Verified
+52,Manchester,32,Self-Employed,4446313,High,Rejected
+53,Manchester,58,Employed,7118653,Low,Verified
+54,Clarendon,21,Employed,7767535,Medium,Verified
+55,St. James,51,Employed,1807705,Medium,Pending
+56,Kingston,24,Unemployed,7200231,Medium,Pending
+57,Manchester,69,Unemployed,5840360,Low,Rejected
+58,St. Catherine,65,Unemployed,7956065,Medium,Rejected
+59,Manchester,25,Self-Employed,7919852,Low,Verified
+60,St. Catherine,50,Self-Employed,3582540,Low,Verified
+61,St. Catherine,44,Employed,1116790,Medium,Verified
+62,Manchester,23,Self-Employed,2716195,Medium,Verified
+63,Clarendon,31,Employed,4347480,Low,Verified
+64,St. Catherine,65,Employed,4587415,High,Pending
+65,St. Catherine,24,Employed,845712,Low,Verified
+66,Manchester,46,Self-Employed,3296641,Low,Verified
+67,St. Catherine,47,Unemployed,5328268,Low,Verified
+68,St. Catherine,66,Self-Employed,3022494,Medium,Verified
+69,Manchester,63,Employed,2464092,Medium,Verified
+70,Manchester,47,Employed,5330801,Low,Verified
+71,Kingston,62,Self-Employed,1287707,Low,Verified
+72,Clarendon,26,Employed,892091,Medium,Verified
+73,Clarendon,35,Employed,6390938,Low,Pending
+74,St. Catherine,50,Self-Employed,6224782,Low,Pending
+75,Clarendon,62,Self-Employed,1693150,Medium,Verified
+76,St. Catherine,57,Self-Employed,7501799,Low,Pending
+77,Kingston,57,Employed,7306016,High,Verified
+78,Manchester,62,Employed,1335827,Low,Verified
+79,Manchester,57,Unemployed,1732196,Medium,Verified
+80,Manchester,55,Unemployed,2849736,Low,Verified
+81,Clarendon,43,Self-Employed,6318358,High,Pending
+82,Kingston,26,Unemployed,4740063,Low,Verified
+83,Clarendon,24,Employed,1221743,Medium,Rejected
+84,Clarendon,38,Unemployed,2363482,Medium,Verified
+85,Kingston,29,Employed,2430872,Low,Verified
+86,Kingston,69,Self-Employed,2325068,Low,Rejected
+87,Kingston,49,Self-Employed,6404342,Medium,Verified
+88,Kingston,33,Employed,5414228,High,Verified
+89,Manchester,67,Unemployed,6709100,Low,Verified
+90,St. James,37,Self-Employed,6977822,Low,Verified
+91,St. James,65,Self-Employed,2964452,High,Verified
+92,Kingston,52,Unemployed,5385711,Low,Verified
+93,St. James,68,Unemployed,4934777,High,Verified
+94,St. James,42,Employed,5801578,Medium,Verified
+95,Kingston,24,Unemployed,4137013,Medium,Verified
+96,St. James,25,Unemployed,4774532,Low,Verified
+97,Clarendon,57,Unemployed,4044699,Low,Verified
+98,St. Catherine,61,Employed,3883562,Medium,Verified
+99,St. Catherine,69,Employed,2935896,High,Verified
+100,Kingston,33,Self-Employed,5372530,High,Verified
+101,Manchester,54,Employed,3216738,Low,Verified
+102,Kingston,65,Self-Employed,6958382,Low,Verified
+103,Manchester,42,Unemployed,3507430,Low,Verified
+104,St. Catherine,43,Self-Employed,2756678,High,Verified
+105,Kingston,23,Self-Employed,7460517,Low,Verified
+106,Clarendon,62,Unemployed,3132127,Low,Verified
+107,St. James,54,Self-Employed,3425090,Low,Verified
+108,Manchester,52,Employed,7660861,Low,Verified
+109,St. James,65,Employed,2726252,High,Verified
+110,St. James,69,Employed,2874278,Medium,Verified
+111,Kingston,41,Employed,2818852,Low,Verified
+112,St. James,66,Self-Employed,5783926,Low,Rejected
+113,Clarendon,64,Self-Employed,2945265,Low,Verified
+114,St. James,41,Unemployed,5134165,Low,Pending
+115,Kingston,64,Self-Employed,1880701,Low,Pending
+116,Clarendon,31,Self-Employed,2078343,Medium,Verified
+117,St. Catherine,59,Self-Employed,7483600,Low,Verified
+118,St. James,24,Unemployed,3832115,Low,Verified
+119,Kingston,21,Employed,1490778,Low,Verified
+120,St. Catherine,48,Self-Employed,4844064,Medium,Verified
+121,St. Catherine,44,Unemployed,978157,Medium,Pending
+122,Manchester,55,Unemployed,2553897,Medium,Pending
+123,Clarendon,33,Unemployed,7434699,Medium,Verified
+124,St. James,67,Employed,3150959,Medium,Verified
+125,Kingston,54,Self-Employed,4628973,Low,Verified
+126,Manchester,31,Unemployed,1411709,High,Pending
+127,Clarendon,56,Employed,6759322,Low,Pending
+128,Manchester,37,Unemployed,6836207,Low,Rejected
+129,Clarendon,55,Unemployed,2029959,Medium,Verified
+130,Clarendon,38,Unemployed,5739158,Low,Verified
+131,St. James,60,Unemployed,4143867,High,Verified
+132,Clarendon,42,Unemployed,7162473,Low,Verified
+133,Manchester,44,Employed,4756092,High,Rejected
+134,Clarendon,39,Self-Employed,3442800,High,Rejected
+135,St. James,57,Self-Employed,7593850,High,Verified
+136,St. James,59,Self-Employed,6657533,High,Verified
+137,Manchester,41,Self-Employed,2458332,High,Verified
+138,St. Catherine,28,Employed,5251441,Medium,Pending
+139,St. Catherine,48,Employed,2149651,Low,Verified
+140,Clarendon,25,Employed,6098703,Low,Verified
+141,Kingston,37,Unemployed,5818768,Medium,Verified
+142,Clarendon,57,Unemployed,1571279,High,Verified
+143,Manchester,56,Unemployed,6061687,Medium,Rejected
+144,Manchester,39,Self-Employed,4874999,High,Verified
+145,Manchester,47,Unemployed,1463431,High,Verified
+146,Manchester,54,Self-Employed,1377701,Low,Verified
+147,Manchester,31,Unemployed,7772965,Low,Verified
+148,St. James,65,Self-Employed,2388404,Low,Verified
+149,St. Catherine,67,Unemployed,2605148,Low,Verified
+150,Manchester,32,Unemployed,6113128,Medium,Verified
+151,Kingston,41,Employed,1052515,High,Pending
+152,Kingston,31,Unemployed,4692825,Medium,Verified
+153,Kingston,59,Unemployed,6153374,Low,Verified
+154,Kingston,48,Employed,3671083,Low,Verified
+155,St. James,25,Self-Employed,1409723,Low,Verified
+156,Kingston,37,Employed,5538379,Medium,Verified
+157,Manchester,40,Employed,1083126,Low,Pending
+158,Clarendon,61,Self-Employed,7342224,Low,Verified
+159,Kingston,66,Unemployed,3444046,Low,Verified
+160,St. James,32,Self-Employed,2776230,Low,Verified
+161,St. James,26,Unemployed,4949161,High,Verified
+162,Kingston,37,Unemployed,5767087,Low,Verified
+163,Clarendon,39,Self-Employed,4179595,Low,Verified
+164,Kingston,46,Employed,7203679,Low,Verified
+165,St. James,68,Self-Employed,6614104,Low,Verified
+166,St. Catherine,64,Unemployed,4563302,Medium,Verified
+167,Manchester,64,Self-Employed,1726097,Medium,Verified
+168,St. James,52,Self-Employed,2783438,Low,Verified
+169,Kingston,26,Unemployed,5993951,Medium,Verified
+170,Manchester,56,Employed,1183609,Low,Verified
+171,Kingston,58,Self-Employed,3905003,Medium,Rejected
+172,Kingston,31,Unemployed,2663082,Low,Verified
+173,St. Catherine,53,Unemployed,3310963,Low,Verified
+174,Manchester,44,Self-Employed,7659938,Medium,Verified
+175,Manchester,43,Employed,2553313,High,Rejected
+176,St. Catherine,35,Self-Employed,3186149,Medium,Rejected
+177,St. James,47,Employed,4281591,Low,Verified
+178,Kingston,31,Employed,3048885,Low,Verified
+179,Clarendon,37,Employed,6566392,High,Rejected
+180,Kingston,34,Employed,3603005,Low,Verified
+181,Kingston,47,Self-Employed,7734468,Low,Verified
+182,St. James,38,Unemployed,2086353,Low,Pending
+183,Kingston,48,Unemployed,3064719,Low,Verified
+184,St. Catherine,67,Unemployed,6056583,Low,Verified
+185,St. Catherine,67,Unemployed,5964888,Low,Pending
+186,Manchester,24,Unemployed,3845471,Low,Verified
+187,Clarendon,27,Unemployed,3844221,High,Verified
+188,Kingston,65,Self-Employed,4926553,Low,Verified
+189,Kingston,55,Employed,5898227,Low,Verified
+190,St. James,68,Unemployed,4004181,Medium,Verified
+191,St. Catherine,29,Self-Employed,2461342,Medium,Verified
+192,Clarendon,28,Unemployed,1619593,Low,Verified
+193,Manchester,65,Unemployed,4132791,High,Pending
+194,St. Catherine,37,Employed,3273592,Low,Verified
+195,Manchester,37,Employed,7329867,High,Pending
+196,St. James,69,Employed,6445812,Low,Pending
+197,St. James,53,Unemployed,6018907,Low,Verified
+198,Kingston,52,Unemployed,3716933,High,Verified
+199,Clarendon,28,Unemployed,7662842,Medium,Pending
+200,Manchester,39,Employed,7073672,Low,Verified
+201,St. Catherine,58,Self-Employed,6373945,Low,Verified
+202,St. James,23,Unemployed,5686202,Low,Verified
+203,Kingston,25,Unemployed,5619164,Medium,Pending
+204,Kingston,33,Unemployed,1816783,Low,Verified
+205,Manchester,67,Self-Employed,4706997,Low,Verified
+206,St. James,66,Unemployed,6312237,Low,Verified
+207,Clarendon,51,Self-Employed,4070421,Medium,Pending
+208,St. James,36,Unemployed,7266751,High,Verified
+209,Manchester,52,Self-Employed,2726663,Medium,Verified
+210,Manchester,42,Unemployed,1585786,Low,Verified
+211,St. James,49,Employed,3227667,High,Verified
+212,Manchester,42,Employed,6111154,Medium,Verified
+213,St. James,63,Employed,4840013,High,Verified
+214,St. Catherine,23,Employed,7357734,Low,Verified
+215,St. James,30,Unemployed,6920740,Low,Rejected
+216,St. James,62,Employed,1363889,Medium,Verified
+217,Manchester,41,Self-Employed,6903201,Low,Verified
+218,Manchester,36,Employed,1077834,Medium,Pending
+219,Kingston,32,Employed,6306933,High,Verified
+220,Kingston,22,Employed,6385056,High,Verified
+221,St. Catherine,61,Unemployed,5530654,High,Pending
+222,Kingston,44,Employed,5331834,Medium,Verified
+223,St. James,55,Self-Employed,4694325,Low,Verified
+224,Manchester,50,Employed,2538667,Low,Verified
+225,Kingston,50,Employed,6179105,Low,Verified
+226,Kingston,67,Employed,4087281,Medium,Verified
+227,St. Catherine,55,Self-Employed,4044998,Low,Pending
+228,St. Catherine,39,Employed,4798585,Low,Verified
+229,St. James,28,Self-Employed,3616112,Medium,Verified
+230,Manchester,46,Self-Employed,7700725,Medium,Verified
+231,St. Catherine,69,Employed,5623062,High,Rejected
+232,Kingston,60,Self-Employed,2532141,Medium,Rejected
+233,Manchester,27,Unemployed,5083191,Medium,Verified
+234,Manchester,50,Employed,1635544,Medium,Pending
+235,Kingston,27,Employed,3039164,High,Pending
+236,St. Catherine,23,Self-Employed,6888322,Medium,Verified
+237,Kingston,21,Self-Employed,1086629,High,Verified
+238,Manchester,56,Employed,7705043,High,Verified
+239,Clarendon,45,Unemployed,7608993,High,Pending
+240,Clarendon,57,Self-Employed,6934896,Low,Pending
+241,St. James,21,Self-Employed,7485739,Low,Verified
+242,Kingston,35,Unemployed,7898495,Low,Verified
+243,Kingston,57,Unemployed,3137643,Low,Verified
+244,St. James,33,Employed,2434461,Low,Pending
+245,St. James,60,Unemployed,7349264,Low,Pending
+246,St. James,28,Employed,4806714,Low,Verified
+247,Manchester,25,Unemployed,2814601,Medium,Verified
+248,Kingston,29,Self-Employed,2616418,Medium,Verified
+249,Manchester,21,Employed,4747347,Low,Pending
+250,St. James,56,Employed,5752575,Medium,Verified
+251,Kingston,55,Employed,3687569,Medium,Verified
+252,Manchester,22,Unemployed,2546988,Medium,Pending
+253,Manchester,60,Self-Employed,5144939,High,Verified
+254,St. James,43,Employed,5696986,Low,Pending
+255,Kingston,29,Employed,1820346,Low,Verified
+256,St. James,54,Employed,7808061,Low,Verified
+257,Kingston,66,Employed,2686522,Low,Rejected
+258,Clarendon,34,Self-Employed,6323632,Medium,Verified
+259,St. Catherine,24,Unemployed,3919331,Low,Verified
+260,St. Catherine,50,Self-Employed,4803487,Low,Verified
+261,St. Catherine,51,Employed,7804041,Low,Verified
+262,St. James,58,Self-Employed,5247077,Low,Verified
+263,Clarendon,31,Employed,7370821,Medium,Pending
+264,Kingston,55,Unemployed,1634938,Medium,Rejected
+265,Manchester,28,Unemployed,1607400,Low,Pending
+266,Kingston,23,Unemployed,5384125,Low,Verified
+267,Manchester,34,Employed,7305134,Low,Pending
+268,Kingston,33,Self-Employed,4366881,Low,Pending
+269,Clarendon,65,Unemployed,7272036,High,Verified
+270,Manchester,52,Employed,4731792,Low,Verified
+271,St. James,54,Employed,5167207,Medium,Verified
+272,Kingston,65,Self-Employed,4381877,High,Pending
+273,Kingston,39,Unemployed,7531979,Low,Verified
+274,Manchester,58,Employed,5097255,Low,Pending
+275,St. James,36,Self-Employed,3791890,High,Verified
+276,St. James,22,Unemployed,4949570,High,Rejected
+277,Clarendon,60,Self-Employed,1105745,Low,Verified
+278,St. James,37,Self-Employed,2579892,Medium,Verified
+279,St. James,54,Employed,7163634,High,Verified
+280,St. James,62,Employed,7307839,Low,Verified
+281,St. Catherine,36,Employed,2008402,High,Pending
+282,Clarendon,58,Self-Employed,7161349,Low,Rejected
+283,Kingston,22,Employed,5343247,Medium,Verified
+284,Manchester,22,Self-Employed,5507527,High,Verified
+285,Kingston,46,Self-Employed,4780527,High,Verified
+286,Clarendon,33,Employed,6318225,Low,Verified
+287,Manchester,67,Unemployed,1720243,Low,Verified
+288,Clarendon,51,Unemployed,4221103,Medium,Pending
+289,St. James,54,Unemployed,4202410,Medium,Rejected
+290,Manchester,59,Self-Employed,3136038,Medium,Verified
+291,St. James,23,Self-Employed,7527167,High,Verified
+292,Kingston,28,Self-Employed,7517296,High,Verified
+293,Kingston,43,Employed,1990283,Low,Verified
+294,Manchester,34,Self-Employed,6577132,Low,Verified
+295,Manchester,47,Employed,1221001,Low,Verified
+296,Clarendon,49,Employed,4696134,Medium,Verified
+297,Clarendon,59,Unemployed,3635309,Medium,Verified
+298,St. James,59,Unemployed,4678016,Medium,Verified
+299,Manchester,21,Unemployed,812336,Low,Verified
+300,Kingston,37,Employed,5858211,Low,Verified
+301,Clarendon,61,Employed,2269204,Low,Pending
+302,Clarendon,50,Employed,3758963,Medium,Pending
+303,Kingston,33,Self-Employed,3991319,Low,Pending
+304,Clarendon,41,Employed,5842486,Low,Verified
+305,St. James,39,Unemployed,2725656,Low,Verified
+306,Manchester,39,Unemployed,3779718,Medium,Verified
+307,Kingston,45,Employed,5422974,Low,Verified
+308,Manchester,42,Employed,4568553,High,Pending
+309,Clarendon,51,Unemployed,5843408,Medium,Verified
+310,Clarendon,37,Employed,1089372,Medium,Verified
+311,Kingston,43,Unemployed,814429,Medium,Verified
+312,St. James,52,Self-Employed,1932870,Low,Verified
+313,St. Catherine,30,Unemployed,4946118,Low,Rejected
+314,Kingston,30,Self-Employed,6226967,High,Verified
+315,St. Catherine,56,Employed,1674506,Medium,Verified
+316,St. Catherine,28,Employed,4276808,High,Verified
+317,St. James,40,Self-Employed,4157707,Medium,Rejected
+318,St. Catherine,52,Employed,1643810,Low,Verified
+319,St. Catherine,34,Self-Employed,5031614,Low,Verified
+320,St. James,48,Employed,7717571,Medium,Verified
+321,St. Catherine,66,Unemployed,5194203,Low,Pending
+322,St. Catherine,44,Employed,5422776,Low,Verified
+323,St. Catherine,35,Unemployed,1007500,High,Verified
+324,Kingston,42,Unemployed,5094166,Low,Pending
+325,Kingston,50,Self-Employed,6014802,Low,Rejected
+326,Kingston,24,Employed,7392489,High,Verified
+327,St. James,33,Self-Employed,6356452,High,Pending
+328,Clarendon,43,Employed,7464102,Low,Verified
+329,St. Catherine,28,Unemployed,7521879,High,Pending
+330,St. Catherine,38,Unemployed,7665999,High,Verified
+331,St. James,32,Employed,5362272,Low,Verified
+332,St. Catherine,51,Employed,5786145,Low,Pending
+333,Kingston,34,Self-Employed,1891014,Low,Pending
+334,Clarendon,54,Employed,5235786,Medium,Verified
+335,Manchester,38,Employed,3662750,Low,Pending
+336,St. Catherine,54,Employed,5779676,High,Verified
+337,Kingston,31,Self-Employed,2861439,Medium,Pending
+338,Manchester,61,Employed,7885757,Medium,Verified
+339,Clarendon,32,Unemployed,7585932,High,Verified
+340,Manchester,69,Self-Employed,5706526,High,Verified
+341,Kingston,35,Self-Employed,3378305,Low,Verified
+342,Manchester,51,Unemployed,2660966,Low,Verified
+343,St. James,69,Unemployed,2055950,Medium,Verified
+344,Manchester,49,Unemployed,6794570,Low,Verified
+345,St. Catherine,46,Employed,4627233,Low,Pending
+346,St. Catherine,38,Unemployed,5332070,Medium,Verified
+347,St. James,52,Employed,2350531,High,Verified
+348,Kingston,42,Self-Employed,4496458,Low,Verified
+349,St. Catherine,58,Self-Employed,5076252,Medium,Verified
+350,Clarendon,37,Unemployed,7346113,Low,Verified
+351,St. Catherine,43,Employed,4233468,Medium,Verified
+352,St. Catherine,44,Unemployed,6642959,Low,Verified
+353,Kingston,28,Unemployed,2415270,High,Verified
+354,Manchester,61,Employed,1889100,Low,Verified
+355,St. Catherine,26,Unemployed,7245860,Medium,Verified
+356,St. James,25,Self-Employed,3007312,Low,Pending
+357,Manchester,64,Unemployed,6189716,Low,Verified
+358,Clarendon,49,Employed,6725803,Low,Rejected
+359,Kingston,48,Employed,5475195,Low,Verified
+360,Clarendon,31,Self-Employed,6210322,Low,Pending
+361,Manchester,21,Employed,1368933,Low,Verified
+362,Manchester,63,Employed,1184903,Medium,Verified
+363,Manchester,39,Self-Employed,4869604,Medium,Rejected
+364,Clarendon,29,Unemployed,1581608,Low,Verified
+365,Manchester,47,Self-Employed,6128381,Medium,Verified
+366,Clarendon,54,Unemployed,1966026,Low,Verified
+367,Manchester,64,Self-Employed,2568407,Medium,Rejected
+368,St. James,24,Unemployed,6321980,Low,Verified
+369,Manchester,56,Self-Employed,5925702,Medium,Verified
+370,Clarendon,38,Unemployed,7070968,Low,Pending
+371,St. Catherine,35,Self-Employed,2340710,High,Verified
+372,Manchester,33,Unemployed,4146386,Low,Pending
+373,St. Catherine,39,Self-Employed,6583877,Low,Verified
+374,St. James,69,Employed,7828074,Low,Pending
+375,Kingston,26,Unemployed,7472028,High,Verified
+376,St. James,68,Self-Employed,4223082,Medium,Verified
+377,Manchester,32,Unemployed,4912742,Medium,Verified
+378,St. Catherine,57,Unemployed,7979969,High,Verified
+379,St. Catherine,37,Self-Employed,7261202,High,Verified
+380,Clarendon,43,Unemployed,2367043,Medium,Verified
+381,St. Catherine,46,Self-Employed,5094329,Low,Verified
+382,Clarendon,49,Employed,1999728,High,Verified
+383,Kingston,53,Unemployed,2343992,Low,Verified
+384,Manchester,47,Employed,3081636,Medium,Verified
+385,Clarendon,45,Unemployed,2759484,Medium,Verified
+386,Kingston,30,Unemployed,5184347,Medium,Verified
+387,St. Catherine,67,Unemployed,7000093,Medium,Verified
+388,St. Catherine,43,Self-Employed,3743430,Medium,Verified
+389,Kingston,41,Employed,4011208,High,Rejected
+390,St. Catherine,41,Unemployed,1567128,Low,Verified
+391,Kingston,63,Self-Employed,5309408,Low,Verified
+392,Clarendon,33,Unemployed,3131774,Medium,Verified
+393,Clarendon,57,Self-Employed,1234368,High,Pending
+394,Kingston,53,Unemployed,4366194,Low,Verified
+395,Clarendon,44,Employed,2720773,Low,Pending
+396,Clarendon,64,Employed,6877449,Low,Verified
+397,Clarendon,31,Unemployed,3634523,Low,Pending
+398,St. James,37,Self-Employed,1967498,High,Verified
+399,Manchester,24,Unemployed,1316576,Medium,Verified
+400,St. Catherine,67,Self-Employed,4591296,Medium,Verified
+401,St. James,45,Unemployed,2288204,Medium,Rejected
+402,Clarendon,50,Self-Employed,6348900,Medium,Pending
+403,Kingston,29,Employed,7972435,Low,Verified
+404,Clarendon,41,Unemployed,7820480,Low,Verified
+405,Manchester,40,Employed,3733811,Low,Verified
+406,Clarendon,39,Employed,4633538,Low,Verified
+407,Kingston,39,Unemployed,6127313,Low,Verified
+408,Manchester,32,Unemployed,2970856,Low,Verified
+409,Clarendon,57,Self-Employed,1331149,Low,Pending
+410,Manchester,62,Self-Employed,1038366,Low,Verified
+411,St. Catherine,37,Employed,5318362,Medium,Verified
+412,St. Catherine,57,Self-Employed,6106768,Low,Verified
+413,Clarendon,68,Self-Employed,1665718,High,Rejected
+414,Manchester,59,Unemployed,7677037,Low,Pending
+415,Kingston,48,Self-Employed,5207900,Medium,Verified
+416,Clarendon,61,Employed,868515,High,Rejected
+417,St. Catherine,55,Self-Employed,1216740,High,Pending
+418,St. Catherine,67,Employed,3166361,High,Verified
+419,Clarendon,68,Unemployed,6207317,Low,Verified
+420,Manchester,38,Employed,2693884,Low,Rejected
+421,St. Catherine,34,Self-Employed,1741208,Low,Verified
+422,Manchester,55,Unemployed,5183233,Low,Verified
+423,St. Catherine,64,Self-Employed,4082422,Low,Verified
+424,St. Catherine,61,Unemployed,3767381,High,Verified
+425,St. James,27,Unemployed,3138692,Medium,Rejected
+426,St. Catherine,61,Self-Employed,2860035,Medium,Verified
+427,Kingston,33,Self-Employed,3914659,High,Verified
+428,Clarendon,38,Unemployed,2464005,Medium,Pending
+429,Clarendon,57,Unemployed,7048084,Medium,Verified
+430,Manchester,33,Self-Employed,7337932,Medium,Verified
+431,St. Catherine,56,Employed,6407414,Low,Rejected
+432,Kingston,51,Self-Employed,2207576,Low,Verified
+433,Manchester,22,Unemployed,6895513,High,Verified
+434,St. James,36,Self-Employed,7517366,High,Verified
+435,Manchester,29,Employed,4821926,High,Verified
+436,Manchester,29,Self-Employed,822995,Low,Rejected
+437,St. Catherine,58,Unemployed,5873056,High,Verified
+438,St. James,31,Self-Employed,2453005,Low,Verified
+439,Manchester,42,Unemployed,7043383,Low,Verified
+440,Kingston,53,Unemployed,2512355,Low,Verified
+441,Kingston,56,Self-Employed,1241168,Low,Pending
+442,Clarendon,65,Unemployed,1489197,Low,Pending
+443,St. James,43,Unemployed,6747117,Low,Rejected
+444,St. James,65,Employed,1299471,Low,Verified
+445,Clarendon,65,Employed,6874999,Low,Pending
+446,Manchester,54,Employed,5749331,Medium,Verified
+447,St. James,29,Employed,6080156,Medium,Pending
+448,Kingston,44,Unemployed,6601691,Low,Pending
+449,Kingston,28,Self-Employed,3213911,Low,Verified
+450,St. Catherine,27,Unemployed,5484162,Medium,Verified
+451,St. James,56,Unemployed,4448984,Medium,Verified
+452,Manchester,38,Unemployed,810514,Low,Verified
+453,Clarendon,23,Self-Employed,2944608,Medium,Rejected
+454,Clarendon,48,Employed,2904385,High,Verified
+455,Manchester,26,Unemployed,6306126,Low,Verified
+456,St. Catherine,64,Unemployed,4011861,Low,Verified
+457,Clarendon,64,Employed,3730299,Low,Pending
+458,St. James,41,Unemployed,5891281,Medium,Verified
+459,St. Catherine,48,Self-Employed,1428373,Low,Verified
+460,St. James,60,Unemployed,1433389,Low,Verified
+461,Kingston,21,Unemployed,1957260,Low,Verified
+462,St. Catherine,56,Employed,2175520,High,Verified
+463,Clarendon,41,Unemployed,7710681,Medium,Pending
+464,St. Catherine,63,Unemployed,7032474,Medium,Verified
+465,St. Catherine,55,Self-Employed,4155000,High,Verified
+466,St. Catherine,33,Employed,4381311,Low,Verified
+467,St. Catherine,69,Employed,6958157,High,Verified
+468,St. James,30,Self-Employed,4583831,Medium,Verified
+469,Kingston,64,Unemployed,5982190,Low,Verified
+470,Manchester,67,Employed,5121906,High,Verified
+471,St. Catherine,30,Employed,4596286,High,Verified
+472,Clarendon,66,Unemployed,2761328,High,Verified
+473,St. Catherine,33,Unemployed,4889437,Low,Pending
+474,Clarendon,57,Employed,7903458,High,Verified
+475,St. James,58,Unemployed,4369199,High,Pending
+476,Clarendon,44,Employed,4491198,Low,Pending
+477,Manchester,22,Unemployed,2150093,Low,Verified
+478,Kingston,42,Unemployed,993691,Low,Pending
+479,Clarendon,37,Self-Employed,7369643,High,Verified
+480,Clarendon,56,Unemployed,4384476,Medium,Verified
+481,Kingston,34,Self-Employed,7323818,Low,Verified
+482,Manchester,30,Unemployed,7288464,Low,Verified
+483,St. Catherine,55,Employed,5275687,Low,Verified
+484,Clarendon,45,Employed,1990064,Medium,Verified
+485,Kingston,23,Unemployed,3765560,Low,Verified
+486,St. James,67,Unemployed,5542998,High,Verified
+487,Kingston,58,Employed,4209747,Medium,Verified
+488,St. James,37,Unemployed,6555327,Medium,Verified
+489,Manchester,32,Self-Employed,2803146,Low,Verified
+490,St. Catherine,44,Self-Employed,3392440,Low,Verified
+491,Kingston,49,Self-Employed,1279969,Low,Verified
+492,Clarendon,63,Self-Employed,7300553,Low,Verified
+493,Manchester,45,Self-Employed,3291721,Low,Pending
+494,Kingston,56,Unemployed,1482346,High,Pending
+495,Clarendon,46,Unemployed,1804411,Low,Verified
+496,Kingston,58,Self-Employed,5795427,Low,Pending
+497,St. James,21,Unemployed,5195223,Low,Verified
+498,Kingston,40,Unemployed,3731659,Low,Verified
+499,Kingston,48,Self-Employed,999542,High,Rejected
+500,Kingston,36,Unemployed,2520342,Low,Verified
+501,Manchester,67,Unemployed,4283802,Low,Rejected
+502,Kingston,37,Unemployed,2619833,Medium,Verified
+503,Clarendon,60,Self-Employed,2750500,Low,Verified
+504,St. James,48,Unemployed,5887365,Low,Verified
+505,St. James,32,Employed,4884032,Low,Verified
+506,Kingston,47,Employed,2023045,Low,Verified
+507,Manchester,62,Self-Employed,5641905,Low,Verified
+508,Manchester,67,Employed,3704936,Low,Pending
+509,Clarendon,50,Self-Employed,2736983,High,Verified
+510,Kingston,61,Employed,2204568,Low,Verified
+511,St. James,54,Employed,1560956,Medium,Verified
+512,Manchester,57,Employed,4354382,Medium,Pending
+513,Kingston,26,Self-Employed,7922887,Medium,Verified
+514,Manchester,27,Self-Employed,4488498,Low,Verified
+515,Manchester,52,Unemployed,5157847,Low,Rejected
+516,St. James,52,Self-Employed,5365861,Medium,Verified
+517,St. Catherine,45,Employed,1299964,Medium,Verified
+518,Clarendon,53,Employed,7145669,Medium,Pending
+519,Clarendon,27,Self-Employed,3797493,Low,Pending
+520,St. James,32,Self-Employed,1599458,High,Verified
+521,Manchester,36,Self-Employed,7438784,Low,Verified
+522,Kingston,36,Unemployed,805435,Low,Pending
+523,Manchester,63,Employed,939565,Low,Verified
+524,St. James,56,Unemployed,3742905,Low,Rejected
+525,Clarendon,33,Unemployed,5914571,Low,Verified
+526,Manchester,27,Employed,4228261,Medium,Verified
+527,Clarendon,56,Employed,7122954,High,Verified
+528,Kingston,67,Self-Employed,5882281,High,Pending
+529,Clarendon,29,Self-Employed,5554417,Low,Pending
+530,Clarendon,52,Unemployed,2127654,Medium,Verified
+531,St. Catherine,31,Self-Employed,3427014,Low,Rejected
+532,St. Catherine,28,Self-Employed,6736419,Low,Verified
+533,St. Catherine,53,Employed,2939934,Low,Verified
+534,Clarendon,43,Employed,1247628,Low,Pending
+535,St. James,45,Self-Employed,6103441,Low,Pending
+536,Clarendon,28,Employed,3367592,Low,Pending
+537,St. James,65,Self-Employed,3819065,Medium,Pending
+538,St. James,42,Employed,4859319,High,Verified
+539,St. Catherine,24,Employed,1264535,Low,Verified
+540,Manchester,60,Employed,6535112,High,Rejected
+541,Kingston,23,Employed,3448191,Medium,Verified
+542,St. Catherine,49,Self-Employed,2148894,Medium,Verified
+543,St. Catherine,61,Unemployed,6951990,Medium,Verified
+544,Manchester,49,Employed,856572,Low,Verified
+545,Kingston,54,Self-Employed,6890728,High,Pending
+546,Clarendon,54,Self-Employed,4350985,Medium,Verified
+547,Clarendon,48,Employed,3313595,High,Pending
+548,St. Catherine,33,Unemployed,2933221,Medium,Verified
+549,Kingston,35,Employed,1537550,High,Verified
+550,St. Catherine,43,Self-Employed,5807106,Medium,Verified
+551,St. James,64,Unemployed,2598954,Low,Verified
+552,St. Catherine,46,Self-Employed,2760350,Low,Verified
+553,St. Catherine,24,Employed,1582533,Low,Verified
+554,Clarendon,46,Unemployed,1729090,Low,Verified
+555,Clarendon,60,Self-Employed,3602743,Low,Verified
+556,Clarendon,29,Self-Employed,1187902,High,Verified
+557,St. James,25,Self-Employed,6965706,Medium,Verified
+558,Clarendon,52,Employed,2700302,High,Verified
+559,Kingston,40,Unemployed,6646636,High,Verified
+560,Manchester,31,Employed,1484659,Medium,Pending
+561,Kingston,35,Employed,1239717,High,Verified
+562,Kingston,52,Employed,1512494,Medium,Pending
+563,Clarendon,48,Unemployed,7727416,High,Pending
+564,Manchester,42,Employed,7494449,Low,Verified
+565,Manchester,61,Employed,6185201,Low,Pending
+566,Manchester,37,Employed,4590918,Low,Verified
+567,St. James,46,Employed,3967118,Medium,Pending
+568,Clarendon,64,Self-Employed,3041105,Medium,Pending
+569,Manchester,27,Employed,2120307,Low,Verified
+570,St. James,62,Self-Employed,3122024,Low,Verified
+571,St. Catherine,46,Employed,3364695,High,Verified
+572,St. Catherine,45,Unemployed,5887745,Medium,Verified
+573,St. James,30,Self-Employed,5475431,Low,Verified
+574,St. James,65,Self-Employed,7572819,Medium,Verified
+575,Clarendon,39,Self-Employed,7854378,Medium,Verified
+576,Clarendon,31,Self-Employed,5919641,High,Verified
+577,St. Catherine,33,Unemployed,6553670,Low,Rejected
+578,Manchester,28,Employed,1895589,Low,Pending
+579,St. Catherine,60,Self-Employed,5635933,Low,Verified
+580,Manchester,24,Unemployed,1714217,Low,Verified
+581,Manchester,67,Self-Employed,4664708,High,Verified
+582,Clarendon,51,Employed,6189706,Low,Verified
+583,Kingston,48,Self-Employed,5626176,High,Pending
+584,Kingston,31,Unemployed,878113,Low,Verified
+585,St. James,63,Employed,7581303,High,Verified
+586,Clarendon,21,Unemployed,2721792,Low,Pending
+587,Manchester,69,Employed,5162113,High,Rejected
+588,Kingston,67,Employed,6554068,High,Verified
+589,Manchester,58,Employed,2339219,High,Verified
+590,Kingston,44,Self-Employed,5280572,Low,Verified
+591,Kingston,67,Unemployed,4802262,Low,Verified
+592,Kingston,51,Unemployed,5389716,Medium,Rejected
+593,Clarendon,61,Unemployed,4793687,Low,Verified
+594,St. Catherine,66,Employed,3289667,Low,Verified
+595,Manchester,46,Self-Employed,5090955,Low,Pending
+596,Clarendon,69,Employed,2095125,Medium,Pending
+597,Clarendon,25,Unemployed,885395,Medium,Rejected
+598,Clarendon,40,Self-Employed,7627089,Low,Verified
+599,Clarendon,61,Self-Employed,6863389,Low,Verified
+600,Clarendon,31,Self-Employed,5360141,Low,Verified
+601,St. James,53,Unemployed,1933859,Medium,Verified
+602,Manchester,58,Self-Employed,1893060,Low,Verified
+603,Clarendon,47,Self-Employed,3498954,Low,Verified
+604,Manchester,54,Employed,4035863,High,Verified
+605,St. James,35,Employed,3195067,High,Pending
+606,St. James,52,Self-Employed,4451422,High,Verified
+607,Manchester,41,Self-Employed,5183030,High,Pending
+608,Kingston,66,Employed,6482636,Low,Verified
+609,St. Catherine,25,Employed,1014223,Medium,Pending
+610,Kingston,26,Employed,4969495,Low,Verified
+611,Kingston,58,Unemployed,7988172,Medium,Pending
+612,Kingston,42,Unemployed,6160279,Low,Verified
+613,Clarendon,38,Employed,6934197,Medium,Verified
+614,St. James,34,Self-Employed,3412761,Medium,Pending
+615,Kingston,30,Employed,2795457,Low,Verified
+616,St. James,66,Unemployed,1813071,Medium,Verified
+617,Manchester,33,Self-Employed,6223525,Low,Pending
+618,St. Catherine,51,Unemployed,5692397,Low,Pending
+619,Manchester,50,Self-Employed,4075072,Low,Verified
+620,Manchester,23,Unemployed,4088560,Low,Verified
+621,Clarendon,50,Self-Employed,2486090,Low,Verified
+622,St. Catherine,26,Self-Employed,5617842,High,Verified
+623,Manchester,49,Self-Employed,1087906,Low,Rejected
+624,Manchester,28,Self-Employed,4127786,Low,Verified
+625,St. Catherine,64,Unemployed,6732572,Low,Verified
+626,St. Catherine,65,Unemployed,4116900,Medium,Rejected
+627,Manchester,63,Self-Employed,1984592,Medium,Verified
+628,St. Catherine,64,Self-Employed,2945977,Medium,Verified
+629,Manchester,53,Unemployed,2911029,Medium,Verified
+630,Manchester,37,Self-Employed,7514662,High,Verified
+631,Clarendon,68,Self-Employed,3026217,High,Verified
+632,Kingston,31,Self-Employed,1432731,Medium,Verified
+633,Manchester,33,Employed,1161756,Low,Verified
+634,St. James,31,Self-Employed,3014826,Medium,Verified
+635,Kingston,51,Employed,4060802,Medium,Verified
+636,Kingston,48,Self-Employed,2821363,Medium,Verified
+637,Kingston,64,Unemployed,1317257,High,Verified
+638,Clarendon,26,Employed,5390778,Medium,Verified
+639,Manchester,61,Employed,2100457,High,Verified
+640,Clarendon,36,Self-Employed,5025933,Low,Verified
+641,Manchester,24,Self-Employed,5949387,Low,Verified
+642,Clarendon,55,Employed,6196910,Low,Verified
+643,Clarendon,68,Unemployed,2281257,High,Pending
+644,St. James,46,Unemployed,2851933,High,Verified
+645,Clarendon,32,Self-Employed,3699359,Medium,Pending
+646,St. Catherine,31,Unemployed,6512671,Medium,Pending
+647,St. James,57,Unemployed,3586719,Medium,Verified
+648,Clarendon,45,Self-Employed,4361497,High,Verified
+649,Kingston,38,Unemployed,7014016,High,Rejected
+650,St. Catherine,39,Self-Employed,1062199,Medium,Verified
+651,St. Catherine,43,Employed,3670524,Medium,Pending
+652,St. Catherine,58,Self-Employed,1937273,Low,Verified
+653,St. James,38,Employed,7779689,Medium,Verified
+654,Clarendon,46,Employed,4667293,Low,Verified
+655,Clarendon,26,Unemployed,6907511,Low,Verified
+656,Kingston,24,Unemployed,6199270,High,Verified
+657,Kingston,64,Unemployed,833734,Medium,Verified
+658,St. Catherine,49,Self-Employed,1013299,High,Rejected
+659,Kingston,54,Unemployed,3571034,Low,Pending
+660,St. James,37,Employed,942728,Low,Verified
+661,Clarendon,63,Unemployed,1471253,Low,Pending
+662,St. Catherine,63,Unemployed,2353185,Low,Pending
+663,Kingston,36,Self-Employed,7894381,Low,Rejected
+664,St. James,22,Self-Employed,7488304,Low,Verified
+665,St. James,54,Employed,7711616,Low,Pending
+666,Kingston,28,Self-Employed,1806152,Low,Verified
+667,Clarendon,33,Unemployed,7415379,Low,Verified
+668,Kingston,62,Self-Employed,1493812,Medium,Rejected
+669,St. Catherine,28,Employed,2517202,Low,Verified
+670,Kingston,50,Unemployed,6426211,Medium,Verified
+671,St. James,52,Employed,4062331,Medium,Pending
+672,Kingston,56,Self-Employed,4793767,Low,Verified
+673,Clarendon,67,Self-Employed,6584108,High,Pending
+674,Manchester,50,Employed,4625091,Medium,Pending
+675,Kingston,21,Unemployed,1452168,Medium,Verified
+676,Clarendon,63,Self-Employed,7714152,Low,Verified
+677,Clarendon,59,Self-Employed,5815551,Medium,Pending
+678,St. James,37,Unemployed,7140753,High,Verified
+679,Clarendon,40,Self-Employed,7151563,Low,Rejected
+680,Clarendon,44,Employed,7436393,Low,Pending
+681,Clarendon,42,Self-Employed,7501354,Low,Verified
+682,Clarendon,49,Self-Employed,4489638,Medium,Verified
+683,St. Catherine,42,Unemployed,5286856,Low,Rejected
+684,St. Catherine,64,Employed,7755653,Medium,Verified
+685,St. James,29,Unemployed,7024594,Low,Verified
+686,Kingston,57,Self-Employed,1995055,High,Pending
+687,Clarendon,30,Self-Employed,2008957,Low,Pending
+688,Kingston,56,Unemployed,7032302,Low,Verified
+689,Kingston,57,Unemployed,1941766,Medium,Verified
+690,St. James,48,Unemployed,1576644,Low,Verified
+691,Clarendon,48,Employed,7059471,Low,Pending
+692,Clarendon,62,Self-Employed,4163712,Low,Pending
+693,Manchester,63,Unemployed,1324658,Medium,Rejected
+694,Kingston,41,Self-Employed,6419236,High,Verified
+695,Kingston,44,Employed,1586918,High,Pending
+696,St. Catherine,62,Employed,6853074,Low,Rejected
+697,Manchester,60,Employed,7642357,Low,Verified
+698,St. Catherine,22,Employed,803196,Medium,Verified
+699,St. Catherine,28,Self-Employed,2349648,Medium,Pending
+700,St. Catherine,68,Employed,4457919,Low,Verified
+701,St. James,47,Employed,6929877,Low,Verified
+702,St. James,42,Unemployed,6905661,Low,Verified
+703,St. Catherine,57,Employed,7942727,Medium,Verified
+704,Manchester,47,Unemployed,4478588,Low,Verified
+705,Kingston,49,Employed,3403680,High,Verified
+706,Manchester,23,Employed,2270017,Low,Rejected
+707,Clarendon,64,Unemployed,3467293,Low,Pending
+708,St. James,33,Employed,7009774,Low,Pending
+709,Kingston,65,Self-Employed,3584787,Low,Verified
+710,Kingston,30,Self-Employed,1658811,Low,Pending
+711,Clarendon,56,Employed,4864337,Low,Pending
+712,Clarendon,29,Self-Employed,6158954,Low,Verified
+713,St. Catherine,47,Unemployed,3464649,Low,Verified
+714,St. James,54,Employed,4436119,Low,Verified
+715,St. James,21,Employed,3857143,High,Pending
+716,Manchester,52,Unemployed,4356995,Medium,Verified
+717,St. Catherine,45,Unemployed,2467108,Medium,Pending
+718,St. Catherine,49,Unemployed,3653507,Low,Verified
+719,St. Catherine,27,Employed,2581336,Low,Verified
+720,St. Catherine,69,Unemployed,1424588,Low,Pending
+721,St. James,23,Unemployed,2954327,Medium,Verified
+722,St. James,40,Self-Employed,4870081,Low,Verified
+723,St. Catherine,40,Self-Employed,1950127,Low,Rejected
+724,Manchester,50,Employed,5799712,Medium,Pending
+725,Kingston,55,Self-Employed,3289913,Low,Verified
+726,Kingston,55,Self-Employed,4717000,Low,Verified
+727,Manchester,69,Unemployed,3478306,Low,Verified
+728,St. Catherine,59,Unemployed,3014904,Medium,Pending
+729,St. James,47,Self-Employed,3150716,Medium,Verified
+730,Kingston,46,Self-Employed,5287561,Low,Verified
+731,Clarendon,34,Self-Employed,2619456,Low,Verified
+732,Clarendon,37,Employed,6582569,Medium,Pending
+733,Manchester,38,Employed,6973268,Low,Pending
+734,St. Catherine,65,Employed,2064008,Medium,Rejected
+735,Kingston,49,Self-Employed,7256942,Medium,Verified
+736,St. Catherine,40,Self-Employed,3568654,Low,Pending
+737,Kingston,47,Employed,7861944,Low,Verified
+738,Manchester,38,Employed,2182212,Medium,Verified
+739,Manchester,24,Self-Employed,2059112,Low,Pending
+740,Clarendon,21,Unemployed,4676345,Low,Verified
+741,St. Catherine,21,Employed,6119573,Medium,Verified
+742,Clarendon,46,Self-Employed,3980863,Low,Pending
+743,St. Catherine,65,Self-Employed,7556904,Low,Verified
+744,Clarendon,40,Unemployed,6857174,Low,Verified
+745,St. James,43,Self-Employed,3033414,Medium,Verified
+746,St. James,30,Self-Employed,2443063,Low,Verified
+747,St. James,31,Employed,6934678,High,Rejected
+748,St. James,61,Employed,804331,Medium,Verified
+749,Kingston,61,Unemployed,2365976,Low,Pending
+750,St. James,25,Unemployed,4776808,Low,Verified
+751,Manchester,21,Self-Employed,1012854,Low,Verified
+752,Manchester,37,Employed,5544353,Medium,Verified
+753,Kingston,42,Unemployed,5783998,High,Pending
+754,St. James,54,Unemployed,2353416,Medium,Verified
+755,St. James,65,Unemployed,3756156,Low,Pending
+756,St. James,61,Self-Employed,5774384,Medium,Verified
+757,Clarendon,49,Employed,3081696,Low,Rejected
+758,St. Catherine,24,Unemployed,7441458,Medium,Pending
+759,Clarendon,25,Employed,1933243,Medium,Pending
+760,St. Catherine,31,Unemployed,804677,Low,Pending
+761,St. James,41,Unemployed,1004580,Low,Verified
+762,St. James,55,Employed,930334,Medium,Pending
+763,Clarendon,32,Employed,5357885,Medium,Verified
+764,Clarendon,46,Employed,7070300,Low,Verified
+765,St. Catherine,39,Self-Employed,5962425,Low,Verified
+766,Manchester,65,Unemployed,2852109,Medium,Verified
+767,St. Catherine,27,Self-Employed,3308963,Low,Verified
+768,Clarendon,67,Employed,6627316,Low,Verified
+769,Clarendon,27,Unemployed,2681934,Low,Verified
+770,Kingston,46,Self-Employed,3496711,Low,Verified
+771,Clarendon,60,Unemployed,1358745,Medium,Verified
+772,Kingston,25,Self-Employed,1366819,High,Rejected
+773,Manchester,41,Employed,7295791,Medium,Rejected
+774,St. Catherine,34,Self-Employed,7557972,Low,Rejected
+775,St. Catherine,24,Unemployed,4598043,Medium,Verified
+776,Kingston,43,Unemployed,994243,Low,Verified
+777,St. Catherine,62,Unemployed,6555325,Low,Rejected
+778,Clarendon,40,Unemployed,5251535,High,Rejected
+779,St. James,35,Employed,3670741,Low,Pending
+780,Kingston,65,Self-Employed,1417423,High,Verified
+781,St. Catherine,49,Employed,1390642,Low,Verified
+782,Kingston,28,Employed,1437031,Medium,Pending
+783,Kingston,61,Employed,3665893,Low,Verified
+784,St. James,68,Unemployed,2803369,Low,Verified
+785,Clarendon,39,Unemployed,6601060,Low,Pending
+786,Kingston,68,Unemployed,2050844,High,Pending
+787,St. Catherine,59,Self-Employed,1716094,Medium,Verified
+788,Manchester,66,Unemployed,5089361,High,Verified
+789,Kingston,48,Self-Employed,1886985,Medium,Rejected
+790,Kingston,66,Unemployed,1046889,High,Verified
+791,St. James,47,Unemployed,7519142,Low,Pending
+792,Clarendon,24,Employed,7240913,Low,Pending
+793,Manchester,35,Employed,2265088,Medium,Pending
+794,St. Catherine,55,Employed,6947878,Medium,Pending
+795,Manchester,57,Self-Employed,7415316,Medium,Verified
+796,St. Catherine,21,Self-Employed,5869888,Low,Verified
+797,Clarendon,23,Unemployed,6069262,Low,Verified
+798,St. Catherine,67,Self-Employed,7168131,High,Verified
+799,St. James,44,Unemployed,4984251,Medium,Verified
+800,St. James,47,Self-Employed,3912252,Low,Verified
+801,St. James,60,Self-Employed,7638163,Medium,Pending
+802,St. James,56,Self-Employed,5075542,High,Verified
+803,Manchester,54,Employed,6036840,Low,Verified
+804,Clarendon,49,Self-Employed,2543227,High,Verified
+805,St. Catherine,44,Employed,3171693,High,Verified
+806,St. Catherine,44,Employed,4969647,High,Verified
+807,St. James,62,Self-Employed,1386470,High,Verified
+808,St. James,24,Unemployed,7970364,Medium,Verified
+809,Kingston,23,Unemployed,4774409,Low,Pending
+810,Clarendon,54,Unemployed,4105141,Low,Rejected
+811,Manchester,69,Self-Employed,977216,Low,Rejected
+812,St. Catherine,43,Unemployed,5449292,Low,Verified
+813,Kingston,43,Employed,2976512,Low,Verified
+814,Kingston,65,Unemployed,4483460,Low,Verified
+815,St. Catherine,25,Self-Employed,3336015,Low,Verified
+816,Manchester,51,Unemployed,923662,Low,Verified
+817,Kingston,61,Employed,2618352,High,Verified
+818,Kingston,26,Self-Employed,4044571,Low,Pending
+819,Clarendon,57,Unemployed,3694558,Medium,Verified
+820,Manchester,30,Self-Employed,1436438,Medium,Verified
+821,Kingston,60,Self-Employed,2280175,Low,Verified
+822,Manchester,27,Self-Employed,2629484,High,Verified
+823,St. Catherine,59,Unemployed,2467690,Medium,Pending
+824,St. James,58,Self-Employed,7566224,Low,Verified
+825,Kingston,41,Unemployed,6926960,Low,Verified
+826,Clarendon,40,Employed,5219425,Low,Verified
+827,St. Catherine,23,Unemployed,2769036,Low,Verified
+828,Manchester,42,Employed,5817226,Low,Verified
+829,St. Catherine,67,Unemployed,4711451,Medium,Rejected
+830,Kingston,24,Self-Employed,3546153,High,Rejected
+831,Manchester,48,Unemployed,7069026,Medium,Pending
+832,St. James,32,Self-Employed,1904188,Low,Verified
+833,St. Catherine,58,Employed,7716218,Low,Verified
+834,Kingston,56,Unemployed,6341183,Low,Verified
+835,Clarendon,67,Self-Employed,4509726,Low,Pending
+836,Manchester,61,Employed,5925614,Low,Pending
+837,St. Catherine,25,Employed,4583112,High,Pending
+838,St. Catherine,33,Unemployed,3106569,Low,Verified
+839,St. James,43,Employed,1011463,High,Verified
+840,St. James,50,Self-Employed,7985300,Low,Verified
+841,Clarendon,57,Employed,2467788,High,Verified
+842,Clarendon,45,Employed,1068602,Medium,Verified
+843,Kingston,68,Self-Employed,3194820,Medium,Verified
+844,Kingston,47,Employed,1462213,Low,Pending
+845,Clarendon,34,Employed,6345501,High,Verified
+846,Clarendon,68,Employed,5536912,High,Verified
+847,Manchester,67,Employed,2991306,Medium,Verified
+848,St. James,56,Self-Employed,3473683,Medium,Verified
+849,Kingston,59,Employed,4646703,Medium,Pending
+850,St. James,36,Self-Employed,3307720,Low,Verified
+851,St. James,42,Employed,4542849,Medium,Verified
+852,Clarendon,41,Employed,893476,High,Pending
+853,Manchester,41,Employed,914560,Low,Verified
+854,St. Catherine,28,Employed,5915011,Low,Verified
+855,Manchester,69,Self-Employed,2149987,Low,Pending
+856,Manchester,36,Self-Employed,4507957,Medium,Pending
+857,St. James,51,Self-Employed,1669241,Low,Verified
+858,Manchester,62,Unemployed,1349656,Low,Verified
+859,Kingston,30,Employed,4238856,Low,Verified
+860,St. James,52,Employed,4380885,Medium,Pending
+861,Kingston,54,Self-Employed,6488779,Low,Verified
+862,St. Catherine,29,Unemployed,4203209,Medium,Pending
+863,St. James,37,Employed,2897953,Low,Pending
+864,St. Catherine,31,Self-Employed,3527978,Medium,Rejected
+865,St. James,52,Employed,3795785,High,Verified
+866,Clarendon,30,Employed,4780125,Low,Verified
+867,Manchester,42,Self-Employed,7701013,Low,Verified
+868,Clarendon,37,Self-Employed,2626629,High,Pending
+869,St. Catherine,24,Employed,3195265,Low,Verified
+870,Manchester,68,Employed,6518365,Low,Verified
+871,St. James,67,Self-Employed,891679,High,Verified
+872,Manchester,45,Employed,3578217,High,Verified
+873,Kingston,41,Employed,6758543,Medium,Verified
+874,Manchester,57,Self-Employed,2139083,Low,Verified
+875,Kingston,58,Employed,6204672,Low,Verified
+876,Manchester,69,Employed,3824628,Low,Verified
+877,Kingston,21,Unemployed,4503367,Medium,Verified
+878,St. Catherine,45,Self-Employed,6734385,Medium,Pending
+879,Clarendon,56,Unemployed,5606540,High,Pending
+880,St. James,37,Unemployed,4690702,Low,Verified
+881,Manchester,61,Unemployed,4788395,Medium,Verified
+882,Clarendon,44,Employed,3174151,Low,Pending
+883,St. James,22,Employed,7520841,Low,Verified
+884,St. James,60,Unemployed,977476,Medium,Verified
+885,Kingston,35,Unemployed,1999217,Low,Verified
+886,St. Catherine,52,Unemployed,7740818,Medium,Verified
+887,St. Catherine,59,Employed,6827246,Medium,Verified
+888,Clarendon,26,Unemployed,3475877,High,Pending
+889,St. Catherine,21,Unemployed,3053962,Medium,Pending
+890,Manchester,67,Self-Employed,5918580,High,Verified
+891,St. Catherine,43,Self-Employed,6062611,Medium,Verified
+892,Clarendon,59,Employed,7756947,Low,Verified
+893,St. Catherine,37,Self-Employed,3749908,Low,Verified
+894,Manchester,54,Self-Employed,7276625,Medium,Verified
+895,Kingston,61,Self-Employed,4813880,Medium,Verified
+896,Clarendon,49,Employed,2731441,Medium,Pending
+897,Kingston,29,Self-Employed,1065033,Low,Verified
+898,Kingston,33,Employed,5528161,Low,Pending
+899,Kingston,26,Unemployed,6916505,Low,Verified
+900,St. James,26,Self-Employed,4152477,Medium,Verified
+901,St. James,40,Employed,6128072,Medium,Verified
+902,Kingston,23,Self-Employed,4724845,Medium,Verified
+903,Clarendon,37,Unemployed,1935730,Low,Pending
+904,Manchester,69,Employed,7299998,Low,Verified
+905,Manchester,32,Employed,1956649,Medium,Verified
+906,St. Catherine,68,Employed,6262774,Medium,Verified
+907,Clarendon,67,Unemployed,7610691,Low,Verified
+908,St. James,65,Unemployed,7885500,Medium,Verified
+909,Kingston,21,Unemployed,6618812,Low,Verified
+910,St. Catherine,37,Employed,4502085,Medium,Rejected
+911,Manchester,23,Unemployed,6911053,High,Pending
+912,St. James,46,Self-Employed,7512003,Medium,Verified
+913,St. James,35,Unemployed,1642329,Medium,Verified
+914,Kingston,56,Employed,1993582,Low,Verified
+915,Manchester,52,Self-Employed,6527590,Medium,Verified
+916,Clarendon,52,Unemployed,1688976,Medium,Pending
+917,St. James,24,Self-Employed,2391570,Medium,Pending
+918,Kingston,38,Self-Employed,974588,Medium,Verified
+919,Clarendon,69,Employed,4573618,Low,Verified
+920,Manchester,39,Self-Employed,4385854,High,Rejected
+921,St. James,63,Self-Employed,2330332,Medium,Rejected
+922,Clarendon,55,Employed,5119050,Low,Verified
+923,Clarendon,60,Employed,5539023,Medium,Verified
+924,Clarendon,34,Employed,6742375,Low,Verified
+925,St. James,53,Self-Employed,1833290,Low,Pending
+926,St. James,34,Self-Employed,5425535,Low,Verified
+927,St. Catherine,54,Self-Employed,5749702,Medium,Pending
+928,Manchester,24,Employed,7647129,High,Verified
+929,Kingston,44,Unemployed,7423799,Medium,Verified
+930,Clarendon,49,Self-Employed,4246549,Medium,Verified
+931,St. Catherine,39,Unemployed,3958546,Low,Rejected
+932,Kingston,26,Employed,1281438,Low,Verified
+933,St. Catherine,53,Self-Employed,7416601,Low,Pending
+934,St. James,69,Unemployed,7246505,Medium,Verified
+935,Clarendon,60,Self-Employed,5568424,High,Rejected
+936,Kingston,39,Self-Employed,6870243,Low,Pending
+937,Kingston,21,Self-Employed,3505430,Medium,Verified
+938,Kingston,25,Unemployed,2058542,High,Pending
+939,Kingston,47,Employed,1920780,Low,Verified
+940,Kingston,36,Self-Employed,2942936,Medium,Verified
+941,St. Catherine,26,Employed,4872091,Medium,Verified
+942,Clarendon,60,Employed,2104140,Medium,Rejected
+943,St. James,33,Unemployed,5608098,Low,Rejected
+944,St. James,68,Unemployed,4593868,Medium,Verified
+945,St. James,55,Employed,2588702,Medium,Pending
+946,St. James,39,Self-Employed,4496724,Low,Verified
+947,St. Catherine,32,Unemployed,2391711,Medium,Pending
+948,Manchester,36,Self-Employed,2428853,Low,Verified
+949,Clarendon,63,Self-Employed,2858721,High,Verified
+950,Kingston,30,Self-Employed,2760391,Medium,Verified
+951,Manchester,45,Employed,5457448,High,Verified
+952,St. James,40,Self-Employed,6956225,Low,Verified
+953,Manchester,51,Employed,4876773,Low,Verified
+954,Clarendon,24,Employed,7897439,Low,Verified
+955,Kingston,64,Self-Employed,6193333,Low,Rejected
+956,Kingston,43,Self-Employed,5894055,Low,Verified
+957,Clarendon,22,Self-Employed,5312121,Medium,Rejected
+958,Clarendon,42,Self-Employed,2920100,Low,Verified
+959,St. James,57,Employed,7708008,Medium,Verified
+960,Kingston,28,Self-Employed,859072,Low,Verified
+961,Manchester,27,Self-Employed,4275432,Medium,Pending
+962,St. Catherine,34,Employed,4683337,Medium,Pending
+963,St. Catherine,23,Unemployed,6700726,Medium,Verified
+964,Clarendon,36,Unemployed,2963843,High,Verified
+965,St. James,39,Employed,3562594,Low,Verified
+966,St. Catherine,38,Unemployed,4834941,Low,Verified
+967,Kingston,36,Employed,5001390,Low,Pending
+968,Clarendon,28,Self-Employed,1189962,Low,Verified
+969,Manchester,53,Self-Employed,5586445,Medium,Verified
+970,Clarendon,69,Unemployed,4277899,Low,Pending
+971,Manchester,32,Self-Employed,4223788,Medium,Rejected
+972,Clarendon,31,Unemployed,1601680,Low,Verified
+973,Clarendon,25,Unemployed,4931279,High,Verified
+974,Clarendon,47,Self-Employed,2659234,High,Verified
+975,Manchester,32,Self-Employed,1742529,Low,Verified
+976,Manchester,37,Unemployed,5757514,Low,Verified
+977,Clarendon,26,Self-Employed,7664124,High,Pending
+978,St. Catherine,53,Employed,4740008,High,Pending
+979,St. James,25,Self-Employed,2387138,Low,Verified
+980,St. James,48,Self-Employed,2886172,Low,Verified
+981,St. James,34,Employed,2165265,High,Verified
+982,Manchester,25,Self-Employed,4730131,Medium,Verified
+983,Manchester,53,Self-Employed,4042222,Low,Verified
+984,St. Catherine,68,Unemployed,915981,Medium,Verified
+985,St. James,61,Self-Employed,7257761,High,Verified
+986,St. James,39,Self-Employed,5010608,High,Verified
+987,Clarendon,42,Employed,2122014,Medium,Verified
+988,Manchester,25,Unemployed,1088569,Medium,Verified
+989,St. James,22,Unemployed,1524071,Low,Verified
+990,St. Catherine,50,Unemployed,4056505,High,Verified
+991,St. Catherine,67,Self-Employed,1202641,Low,Verified
+992,St. James,59,Unemployed,5612056,High,Verified
+993,Manchester,24,Employed,5956798,Low,Verified
+994,St. Catherine,53,Unemployed,4576764,High,Rejected
+995,Clarendon,33,Employed,2315538,Low,Verified
+996,St. Catherine,40,Unemployed,6897607,Medium,Verified
+997,Kingston,27,Unemployed,3699675,Low,Verified
+998,Kingston,35,Employed,4199902,Medium,Verified
+999,Manchester,43,Unemployed,5649666,High,Rejected
+1000,St. James,34,Unemployed,4199618,Medium,Pending
+1001,Manchester,43,Unemployed,7666155,Medium,Verified
+1002,Manchester,39,Self-Employed,7525630,Low,Verified
+1003,Manchester,49,Employed,4204629,High,Verified
+1004,Manchester,40,Unemployed,2992848,Medium,Verified
+1005,Clarendon,49,Employed,3573219,Medium,Verified
+1006,Clarendon,44,Employed,5664912,Medium,Verified
+1007,St. Catherine,38,Employed,2444173,Medium,Verified
+1008,Kingston,30,Unemployed,1769224,Low,Verified
+1009,Manchester,61,Unemployed,3567549,Medium,Pending
+1010,St. Catherine,28,Employed,5061725,Medium,Verified
+1011,Kingston,46,Self-Employed,1036436,High,Verified
+1012,St. James,49,Employed,6517963,High,Verified
+1013,Clarendon,30,Self-Employed,6345636,Low,Verified
+1014,Kingston,37,Employed,7572703,Low,Pending
+1015,St. James,22,Employed,6580618,Low,Verified
+1016,Kingston,26,Employed,6052371,Low,Pending
+1017,Clarendon,25,Unemployed,3014178,Medium,Verified
+1018,Clarendon,48,Self-Employed,874804,High,Pending
+1019,St. Catherine,61,Self-Employed,4457390,Low,Pending
+1020,Manchester,25,Employed,3776877,Low,Verified
+1021,Kingston,38,Unemployed,4589514,High,Verified
+1022,Kingston,46,Unemployed,5757107,High,Pending
+1023,St. James,40,Self-Employed,2772871,Medium,Verified
+1024,Clarendon,61,Unemployed,2740483,Medium,Verified
+1025,Kingston,69,Self-Employed,3711898,Medium,Verified
+1026,Clarendon,47,Self-Employed,1287335,Low,Verified
+1027,Kingston,69,Self-Employed,6027365,Low,Verified
+1028,St. Catherine,32,Unemployed,7812445,Low,Verified
+1029,Manchester,27,Self-Employed,4309163,Low,Verified
+1030,Kingston,23,Self-Employed,4187951,High,Verified
+1031,Clarendon,30,Employed,7625711,Medium,Pending
+1032,St. Catherine,54,Self-Employed,2061402,Low,Verified
+1033,Kingston,45,Self-Employed,6348244,Low,Rejected
+1034,St. James,55,Employed,4675251,Low,Rejected
+1035,Manchester,36,Employed,6965331,Medium,Pending
+1036,Kingston,22,Unemployed,4640507,High,Rejected
+1037,St. Catherine,44,Self-Employed,2166851,Low,Pending
+1038,St. James,30,Unemployed,3379082,Low,Pending
+1039,St. Catherine,58,Unemployed,2926028,Medium,Verified
+1040,St. Catherine,42,Employed,3785032,Medium,Verified
+1041,St. James,46,Unemployed,6718211,Low,Pending
+1042,St. Catherine,63,Self-Employed,3877195,Medium,Verified
+1043,St. James,59,Employed,3126344,Medium,Pending
+1044,Kingston,47,Self-Employed,4257100,Low,Pending
+1045,St. James,49,Self-Employed,6297647,Low,Verified
+1046,St. James,67,Employed,6903807,Low,Pending
+1047,Manchester,58,Self-Employed,3149465,High,Verified
+1048,St. James,40,Employed,1876837,High,Verified
+1049,St. James,47,Self-Employed,6517467,High,Verified
+1050,Kingston,61,Employed,3899449,Medium,Verified
+1051,Manchester,40,Unemployed,3910999,Medium,Verified
+1052,Clarendon,64,Self-Employed,2337746,Medium,Verified
+1053,Kingston,39,Employed,2429040,High,Verified
+1054,Kingston,40,Self-Employed,3211596,Low,Pending
+1055,Clarendon,55,Self-Employed,3039564,Medium,Verified
+1056,St. James,67,Self-Employed,4463289,Medium,Verified
+1057,St. Catherine,22,Employed,4988699,Medium,Verified
+1058,Manchester,50,Unemployed,3716596,Low,Pending
+1059,St. Catherine,54,Unemployed,6511229,Medium,Pending
+1060,Clarendon,42,Unemployed,6985941,Medium,Verified
+1061,Kingston,23,Employed,4927436,Low,Verified
+1062,Kingston,26,Unemployed,6902585,Medium,Pending
+1063,Manchester,35,Employed,5893064,Low,Verified
+1064,Kingston,47,Self-Employed,3265933,High,Verified
+1065,Kingston,30,Self-Employed,5666940,Medium,Verified
+1066,Manchester,29,Unemployed,4262511,Medium,Verified
+1067,Manchester,53,Employed,1184083,Low,Pending
+1068,Clarendon,52,Self-Employed,1331598,Low,Verified
+1069,Kingston,68,Employed,6407968,Medium,Verified
+1070,Kingston,26,Employed,7569552,Low,Verified
+1071,Clarendon,61,Self-Employed,6708631,Medium,Rejected
+1072,St. James,56,Employed,3078845,Low,Pending
+1073,St. James,22,Self-Employed,1466252,High,Pending
+1074,St. James,49,Self-Employed,7825402,Medium,Verified
+1075,Clarendon,24,Self-Employed,3850798,Low,Verified
+1076,Kingston,21,Employed,3336047,Medium,Rejected
+1077,Clarendon,39,Self-Employed,7264143,High,Verified
+1078,Clarendon,46,Employed,4124353,Medium,Pending
+1079,St. James,45,Self-Employed,4054992,Low,Verified
+1080,St. Catherine,30,Self-Employed,5597663,Medium,Verified
+1081,Kingston,35,Unemployed,1496362,Low,Verified
+1082,St. James,42,Unemployed,7069191,Low,Pending
+1083,St. Catherine,68,Unemployed,6427635,Low,Pending
+1084,St. Catherine,41,Employed,6113538,Medium,Verified
+1085,Manchester,42,Employed,6577020,Low,Verified
+1086,Kingston,56,Self-Employed,5261835,High,Rejected
+1087,St. Catherine,54,Self-Employed,4335443,Low,Verified
+1088,St. James,50,Self-Employed,2732303,Low,Pending
+1089,Manchester,45,Self-Employed,3551821,Low,Verified
+1090,Kingston,65,Employed,7393594,Low,Verified
+1091,Clarendon,48,Self-Employed,7325940,Medium,Verified
+1092,St. James,21,Self-Employed,7060798,Low,Verified
+1093,St. Catherine,69,Unemployed,1226941,Low,Verified
+1094,St. Catherine,65,Self-Employed,4673770,Low,Verified
+1095,St. James,24,Self-Employed,5650224,Low,Verified
+1096,St. Catherine,27,Self-Employed,1186354,Low,Verified
+1097,Manchester,69,Employed,3740149,Medium,Verified
+1098,Kingston,29,Unemployed,6306336,Medium,Pending
+1099,Manchester,56,Self-Employed,1735709,Medium,Verified
+1100,St. Catherine,39,Self-Employed,3285178,Medium,Verified
+1101,Clarendon,21,Unemployed,6971979,Medium,Verified
+1102,Kingston,30,Self-Employed,7179022,High,Verified
+1103,Kingston,56,Employed,7374929,Low,Pending
+1104,St. James,29,Self-Employed,6277630,Low,Verified
+1105,St. James,65,Employed,7088893,Low,Pending
+1106,Clarendon,66,Employed,4053965,Low,Verified
+1107,Kingston,62,Self-Employed,2885469,Low,Verified
+1108,Clarendon,52,Unemployed,4465632,Medium,Verified
+1109,St. James,52,Employed,4322348,Low,Pending
+1110,St. James,26,Unemployed,2146365,High,Rejected
+1111,Kingston,68,Self-Employed,1936078,Low,Verified
+1112,Manchester,58,Employed,1286598,Low,Pending
+1113,St. Catherine,37,Self-Employed,5343758,High,Verified
+1114,St. James,30,Unemployed,7947507,High,Rejected
+1115,St. James,47,Self-Employed,6862825,Low,Verified
+1116,Manchester,55,Self-Employed,1333037,Medium,Verified
+1117,Manchester,41,Employed,4631871,High,Verified
+1118,Clarendon,45,Self-Employed,1384933,Low,Rejected
+1119,Clarendon,48,Self-Employed,1013933,Low,Pending
+1120,St. Catherine,67,Self-Employed,6096055,High,Rejected
+1121,St. Catherine,35,Employed,1801720,Medium,Pending
+1122,Kingston,24,Unemployed,7239851,Low,Verified
+1123,Clarendon,49,Unemployed,2947914,Medium,Rejected
+1124,St. James,29,Self-Employed,7048604,Low,Rejected
+1125,Clarendon,47,Employed,3485662,High,Verified
+1126,St. James,46,Self-Employed,1227709,Low,Verified
+1127,Manchester,39,Unemployed,1055539,High,Verified
+1128,Clarendon,48,Employed,7713111,Medium,Rejected
+1129,Manchester,37,Unemployed,2550866,Low,Pending
+1130,St. Catherine,63,Unemployed,4104513,Low,Pending
+1131,St. Catherine,61,Employed,4577173,Medium,Rejected
+1132,Kingston,62,Employed,7033107,High,Pending
+1133,Clarendon,40,Self-Employed,2602272,Low,Pending
+1134,Manchester,65,Self-Employed,6075463,Low,Pending
+1135,St. James,60,Unemployed,5647384,Medium,Verified
+1136,St. Catherine,59,Employed,4976429,Medium,Verified
+1137,St. Catherine,69,Employed,7171400,Low,Verified
+1138,St. James,43,Self-Employed,3968097,Medium,Pending
+1139,Manchester,67,Unemployed,2835030,Medium,Verified
+1140,Manchester,52,Unemployed,2750852,Low,Verified
+1141,Clarendon,67,Self-Employed,6034748,Low,Verified
+1142,Clarendon,53,Employed,812120,Low,Verified
+1143,Kingston,66,Self-Employed,1424135,Medium,Verified
+1144,St. Catherine,25,Self-Employed,5617167,Medium,Verified
+1145,Clarendon,63,Self-Employed,5539052,Medium,Verified
+1146,Manchester,68,Self-Employed,7630707,Low,Verified
+1147,St. James,54,Employed,6906428,Low,Verified
+1148,Manchester,60,Self-Employed,2853902,High,Verified
+1149,St. Catherine,31,Employed,5545920,Low,Verified
+1150,Manchester,23,Self-Employed,7962517,Medium,Verified
+1151,Kingston,53,Unemployed,3021186,Medium,Verified
+1152,St. Catherine,31,Employed,6588773,Low,Verified
+1153,St. James,36,Unemployed,6940213,Low,Pending
+1154,Kingston,38,Self-Employed,4121613,Low,Verified
+1155,St. Catherine,50,Self-Employed,7723985,Low,Verified
+1156,St. James,68,Self-Employed,1634030,Medium,Verified
+1157,Kingston,30,Employed,5186152,Low,Verified
+1158,Kingston,38,Unemployed,3151441,Low,Verified
+1159,St. Catherine,58,Employed,6901570,Medium,Verified
+1160,Clarendon,39,Employed,3724553,Low,Verified
+1161,Kingston,56,Self-Employed,3066598,Medium,Verified
+1162,Kingston,33,Unemployed,2576238,Low,Verified
+1163,St. James,66,Self-Employed,862784,Low,Pending
+1164,Manchester,23,Employed,5927736,Low,Verified
+1165,St. Catherine,30,Self-Employed,6064154,Low,Rejected
+1166,St. Catherine,58,Unemployed,6697162,High,Verified
+1167,Clarendon,21,Self-Employed,5815152,Medium,Verified
+1168,Clarendon,47,Unemployed,7308676,Low,Verified
+1169,St. Catherine,66,Unemployed,5710662,Low,Pending
+1170,Clarendon,28,Self-Employed,3259730,Low,Verified
+1171,St. James,66,Employed,5238072,Low,Verified
+1172,St. Catherine,62,Self-Employed,2795127,Low,Verified
+1173,Clarendon,37,Employed,2541070,Medium,Verified
+1174,St. Catherine,29,Employed,2308834,High,Pending
+1175,Manchester,26,Self-Employed,1835108,Low,Verified
+1176,Kingston,63,Employed,7958646,Medium,Verified
+1177,St. Catherine,45,Employed,5137739,High,Verified
+1178,Kingston,59,Self-Employed,1278365,Low,Verified
+1179,Clarendon,69,Self-Employed,5956371,High,Verified
+1180,Kingston,48,Self-Employed,3714212,Medium,Verified
+1181,St. Catherine,53,Employed,2874242,Low,Verified
+1182,Manchester,57,Unemployed,6032761,High,Rejected
+1183,Clarendon,29,Employed,4015400,Low,Verified
+1184,St. Catherine,38,Unemployed,2419110,Low,Rejected
+1185,Clarendon,41,Self-Employed,5922969,Medium,Verified
+1186,St. James,22,Unemployed,1294209,Low,Verified
+1187,Kingston,63,Self-Employed,1413398,Low,Verified
+1188,St. James,58,Self-Employed,2334230,Low,Pending
+1189,St. Catherine,60,Unemployed,7356410,Medium,Verified
+1190,Manchester,56,Self-Employed,2563796,Medium,Verified
+1191,Clarendon,63,Unemployed,6251151,Medium,Verified
+1192,Kingston,57,Self-Employed,5590280,High,Pending
+1193,Clarendon,35,Employed,1651980,Low,Verified
+1194,St. Catherine,48,Employed,2566299,Low,Verified
+1195,Clarendon,38,Self-Employed,5267610,Medium,Verified
+1196,Kingston,54,Self-Employed,4820018,Medium,Pending
+1197,St. Catherine,42,Unemployed,7689279,Low,Rejected
+1198,Clarendon,31,Employed,7491891,Low,Verified
+1199,Manchester,33,Unemployed,7686608,High,Verified
+1200,St. Catherine,24,Self-Employed,2462656,High,Pending
+1201,St. Catherine,42,Self-Employed,5694097,Medium,Pending
+1202,Manchester,27,Unemployed,3410366,Low,Verified
+1203,St. James,63,Self-Employed,6512946,High,Rejected
+1204,Kingston,44,Employed,7873160,High,Verified
+1205,St. James,24,Unemployed,6109068,Medium,Verified
+1206,Clarendon,48,Employed,2034599,High,Pending
+1207,Manchester,35,Employed,6911030,High,Verified
+1208,St. James,21,Employed,5756780,High,Rejected
+1209,St. Catherine,23,Unemployed,1360846,High,Verified
+1210,Clarendon,34,Self-Employed,5123242,Medium,Verified
+1211,Clarendon,58,Employed,1995307,Medium,Pending
+1212,St. James,21,Employed,7888323,Low,Verified
+1213,St. James,58,Employed,3671712,Medium,Verified
+1214,Manchester,58,Self-Employed,4917143,Medium,Pending
+1215,Kingston,41,Self-Employed,7703538,High,Verified
+1216,St. James,68,Unemployed,3777407,Low,Verified
+1217,St. James,49,Self-Employed,1655656,Medium,Pending
+1218,St. Catherine,25,Unemployed,5460745,Low,Verified
+1219,Clarendon,69,Unemployed,7617123,Medium,Rejected
+1220,Kingston,30,Unemployed,6675709,Medium,Pending
+1221,St. Catherine,48,Unemployed,4366568,Low,Verified
+1222,Manchester,41,Unemployed,5479020,Medium,Verified
+1223,Manchester,27,Employed,2592363,Low,Rejected
+1224,St. James,23,Self-Employed,1438922,Low,Verified
+1225,St. James,65,Employed,1577867,Medium,Verified
+1226,Manchester,67,Unemployed,4860861,Low,Verified
+1227,St. James,40,Self-Employed,6362769,Low,Verified
+1228,Kingston,39,Employed,3866461,Low,Verified
+1229,St. James,55,Employed,6671083,Low,Rejected
+1230,Clarendon,24,Unemployed,6556911,Medium,Pending
+1231,St. James,25,Employed,3302884,Low,Verified
+1232,St. Catherine,21,Employed,7826238,High,Verified
+1233,Kingston,24,Employed,7308371,Low,Verified
+1234,St. Catherine,32,Employed,2502424,Low,Verified
+1235,St. Catherine,47,Employed,4101643,Low,Pending
+1236,Clarendon,62,Unemployed,4975252,Medium,Pending
+1237,Kingston,43,Unemployed,1985560,Medium,Pending
+1238,Kingston,45,Employed,7309887,High,Verified
+1239,Kingston,41,Unemployed,2560968,Medium,Verified
+1240,Kingston,44,Unemployed,1746301,Low,Verified
+1241,Kingston,45,Self-Employed,5656113,Medium,Verified
+1242,Clarendon,65,Employed,5127101,High,Verified
+1243,St. James,66,Unemployed,1667838,Low,Rejected
+1244,St. Catherine,52,Unemployed,1857880,Low,Pending
+1245,Kingston,52,Employed,3887714,Medium,Rejected
+1246,St. James,25,Self-Employed,5119859,Low,Pending
+1247,St. James,56,Employed,4278192,High,Verified
+1248,St. Catherine,66,Self-Employed,2371853,Low,Verified
+1249,Clarendon,62,Employed,1268224,Low,Verified
+1250,Manchester,69,Employed,3930576,High,Verified
+1251,Manchester,62,Employed,4040216,High,Verified
+1252,St. James,59,Employed,2107066,Low,Pending
+1253,St. Catherine,36,Self-Employed,6380615,High,Verified
+1254,Manchester,53,Self-Employed,6400068,Low,Verified
+1255,St. James,69,Unemployed,1585890,Low,Verified
+1256,Clarendon,41,Employed,4887954,High,Verified
+1257,Manchester,29,Self-Employed,6705686,Medium,Verified
+1258,St. James,26,Self-Employed,6424328,Low,Verified
+1259,St. James,65,Self-Employed,1722229,Low,Verified
+1260,Kingston,55,Employed,3638109,Medium,Pending
+1261,Clarendon,59,Unemployed,3403441,Low,Verified
+1262,Kingston,42,Self-Employed,5606799,Medium,Verified
+1263,St. Catherine,61,Employed,998017,Medium,Verified
+1264,Kingston,25,Self-Employed,4543757,Low,Rejected
+1265,Kingston,62,Self-Employed,6059245,Medium,Verified
+1266,Manchester,43,Unemployed,5846528,High,Pending
+1267,St. James,37,Self-Employed,7811673,Low,Rejected
+1268,Clarendon,32,Self-Employed,3668921,Low,Pending
+1269,Kingston,43,Employed,5665368,Low,Verified
+1270,Clarendon,36,Employed,7252430,Medium,Verified
+1271,Kingston,23,Unemployed,3803225,High,Verified
+1272,St. Catherine,50,Employed,3129518,Low,Verified
+1273,Kingston,42,Employed,6437291,Low,Verified
+1274,Manchester,29,Unemployed,5244623,Low,Rejected
+1275,St. James,49,Self-Employed,5834253,Medium,Rejected
+1276,St. Catherine,67,Unemployed,5028316,Low,Verified
+1277,Kingston,57,Employed,1466775,High,Verified
+1278,Clarendon,43,Unemployed,4378478,Low,Rejected
+1279,St. Catherine,33,Self-Employed,6588854,Medium,Verified
+1280,St. Catherine,52,Unemployed,5502034,Medium,Verified
+1281,Kingston,66,Employed,6726983,Medium,Verified
+1282,St. Catherine,67,Employed,7123617,Low,Pending
+1283,Clarendon,68,Unemployed,1254529,Medium,Verified
+1284,St. Catherine,43,Self-Employed,3144218,Low,Pending
+1285,Clarendon,65,Unemployed,3661129,Low,Verified
+1286,Kingston,37,Self-Employed,6307426,Medium,Verified
+1287,St. James,60,Self-Employed,1911766,Medium,Verified
+1288,St. Catherine,41,Unemployed,4221147,Low,Verified
+1289,St. James,22,Self-Employed,1339203,Low,Verified
+1290,Clarendon,57,Employed,2111629,High,Verified
+1291,St. Catherine,26,Unemployed,1700542,High,Pending
+1292,Manchester,64,Self-Employed,4011636,Low,Verified
+1293,St. James,38,Employed,4754780,Medium,Pending
+1294,St. Catherine,50,Unemployed,5028416,Low,Rejected
+1295,St. James,42,Employed,7820867,Medium,Pending
+1296,St. Catherine,53,Employed,6129470,High,Rejected
+1297,Kingston,50,Employed,3745759,Low,Verified
+1298,St. James,37,Self-Employed,6684640,Medium,Verified
+1299,Manchester,63,Unemployed,1094768,Low,Rejected
+1300,Manchester,52,Unemployed,4152921,Medium,Pending
+1301,Clarendon,62,Self-Employed,861264,Medium,Pending
+1302,St. Catherine,34,Unemployed,5894502,High,Verified
+1303,St. James,30,Employed,7778774,Low,Verified
+1304,Clarendon,67,Unemployed,6962079,Low,Verified
+1305,St. James,56,Self-Employed,3259507,Low,Pending
+1306,St. Catherine,54,Employed,5638094,High,Verified
+1307,Manchester,29,Self-Employed,5437452,Medium,Verified
+1308,Kingston,62,Employed,4252097,Medium,Verified
+1309,Manchester,48,Employed,7748219,Low,Verified
+1310,Clarendon,31,Unemployed,4151191,High,Verified
+1311,Kingston,34,Employed,2018284,High,Pending
+1312,Clarendon,59,Self-Employed,7888727,Medium,Pending
+1313,St. Catherine,67,Unemployed,3880202,Low,Verified
+1314,Kingston,39,Self-Employed,6802874,Low,Verified
+1315,Clarendon,35,Employed,6183182,Medium,Rejected
+1316,St. Catherine,48,Self-Employed,4521993,Medium,Verified
+1317,Manchester,44,Self-Employed,2748058,Low,Pending
+1318,St. Catherine,28,Employed,5488827,Medium,Verified
+1319,St. James,63,Unemployed,7317320,Low,Verified
+1320,St. Catherine,29,Self-Employed,6592819,Medium,Verified
+1321,St. Catherine,67,Employed,1422207,Medium,Pending
+1322,St. James,53,Unemployed,5705536,Low,Verified
+1323,Clarendon,53,Unemployed,1442064,Medium,Verified
+1324,Clarendon,39,Unemployed,1665630,Low,Verified
+1325,St. Catherine,23,Self-Employed,6187691,Low,Verified
+1326,St. James,30,Self-Employed,5125001,High,Verified
+1327,St. James,60,Self-Employed,3746878,Low,Verified
+1328,Manchester,67,Unemployed,7617533,Low,Verified
+1329,Clarendon,62,Self-Employed,2785500,Low,Verified
+1330,Kingston,21,Employed,3772881,Low,Verified
+1331,Clarendon,49,Self-Employed,2109989,Low,Verified
+1332,Clarendon,54,Self-Employed,968678,Low,Verified
+1333,Manchester,33,Unemployed,5426160,Medium,Verified
+1334,Kingston,21,Self-Employed,4850501,Low,Verified
+1335,Manchester,54,Employed,6611303,Medium,Verified
+1336,Kingston,49,Unemployed,6079947,Low,Verified
+1337,St. Catherine,68,Employed,1775924,Low,Verified
+1338,Kingston,67,Unemployed,1603789,Low,Verified
+1339,Manchester,33,Unemployed,970923,High,Verified
+1340,Clarendon,68,Self-Employed,1100406,Medium,Verified
+1341,Kingston,69,Employed,1317961,Medium,Pending
+1342,Kingston,49,Unemployed,1835598,Low,Pending
+1343,St. James,59,Self-Employed,3311902,High,Verified
+1344,Clarendon,44,Unemployed,7969158,Low,Verified
+1345,St. Catherine,46,Unemployed,4440377,Low,Pending
+1346,Manchester,37,Unemployed,963944,Medium,Rejected
+1347,St. Catherine,27,Unemployed,3396105,Low,Verified
+1348,Clarendon,33,Unemployed,3822345,High,Verified
+1349,Kingston,25,Unemployed,3490543,Low,Verified
+1350,Kingston,46,Self-Employed,3769852,High,Verified
+1351,Clarendon,69,Unemployed,6524827,Medium,Verified
+1352,Kingston,23,Employed,7600541,Medium,Verified
+1353,Kingston,27,Self-Employed,5556004,Low,Pending
+1354,Kingston,69,Employed,2158454,Low,Verified
+1355,Manchester,59,Unemployed,7594306,High,Verified
+1356,Manchester,21,Employed,4671018,Low,Verified
+1357,St. James,69,Unemployed,1870804,Medium,Verified
+1358,St. Catherine,37,Unemployed,7212083,High,Verified
+1359,Clarendon,63,Self-Employed,3237220,Low,Verified
+1360,Clarendon,45,Self-Employed,2903627,Medium,Verified
+1361,Clarendon,23,Unemployed,7843907,Medium,Verified
+1362,St. James,35,Self-Employed,3898350,Low,Rejected
+1363,Manchester,49,Employed,6712968,Low,Verified
+1364,St. James,63,Self-Employed,5235686,Low,Verified
+1365,Clarendon,52,Self-Employed,5810281,Low,Verified
+1366,St. Catherine,46,Employed,7607643,Medium,Verified
+1367,Kingston,36,Self-Employed,6010558,Low,Verified
+1368,Manchester,45,Unemployed,6796652,High,Verified
+1369,Manchester,48,Employed,6759996,Low,Verified
+1370,St. James,29,Unemployed,7815591,Medium,Verified
+1371,Manchester,21,Employed,4377643,Medium,Pending
+1372,Clarendon,49,Unemployed,5424341,Low,Verified
+1373,Clarendon,42,Unemployed,3189911,Low,Verified
+1374,St. James,36,Self-Employed,2526681,Medium,Verified
+1375,Clarendon,61,Unemployed,7354845,High,Pending
+1376,St. Catherine,64,Self-Employed,917408,Low,Verified
+1377,St. James,61,Employed,1436431,Low,Verified
+1378,St. Catherine,27,Unemployed,6985237,Low,Pending
+1379,Kingston,34,Unemployed,4235504,Low,Verified
+1380,St. Catherine,49,Employed,1599288,Medium,Verified
+1381,Kingston,39,Employed,2036541,High,Verified
+1382,Kingston,39,Unemployed,2836721,Low,Pending
+1383,St. Catherine,22,Employed,2440913,High,Pending
+1384,St. James,61,Self-Employed,6887494,Low,Rejected
+1385,Clarendon,65,Employed,6963185,Medium,Rejected
+1386,Clarendon,35,Employed,6777671,Low,Pending
+1387,Kingston,23,Unemployed,6737989,Low,Verified
+1388,Kingston,31,Self-Employed,1117798,Low,Pending
+1389,St. James,66,Employed,2051222,Low,Verified
+1390,Manchester,50,Self-Employed,1290783,Medium,Verified
+1391,St. Catherine,60,Self-Employed,5836117,Medium,Verified
+1392,Kingston,38,Self-Employed,1907177,Low,Verified
+1393,Clarendon,68,Unemployed,7761464,High,Pending
+1394,St. James,22,Employed,1586796,Low,Verified
+1395,St. Catherine,52,Unemployed,6208520,Medium,Verified
+1396,St. James,28,Employed,5459014,Low,Verified
+1397,St. Catherine,42,Employed,6312460,Low,Pending
+1398,St. Catherine,26,Unemployed,4294585,Low,Verified
+1399,Kingston,32,Self-Employed,2792834,Medium,Verified
+1400,St. James,67,Self-Employed,4923412,Medium,Verified
+1401,St. James,60,Employed,6106175,Low,Verified
+1402,Clarendon,56,Unemployed,6448734,Low,Verified
+1403,Clarendon,35,Self-Employed,5715379,Low,Verified
+1404,Kingston,48,Self-Employed,7160865,Medium,Pending
+1405,Kingston,69,Employed,4719736,Medium,Verified
+1406,Manchester,65,Employed,5994914,Low,Verified
+1407,Clarendon,38,Unemployed,5516302,Low,Verified
+1408,St. Catherine,22,Employed,3273055,Medium,Verified
+1409,St. James,33,Self-Employed,2127877,Low,Verified
+1410,Kingston,65,Self-Employed,7816812,Low,Verified
+1411,St. James,35,Self-Employed,4976852,Low,Verified
+1412,St. James,40,Self-Employed,3487328,Low,Pending
+1413,Manchester,49,Unemployed,7278623,Medium,Verified
+1414,Clarendon,62,Unemployed,2699955,Medium,Verified
+1415,Kingston,49,Employed,6523218,Low,Verified
+1416,St. James,23,Employed,2705888,Medium,Verified
+1417,Kingston,39,Employed,4998811,Low,Verified
+1418,St. Catherine,23,Unemployed,6932446,High,Verified
+1419,Manchester,34,Self-Employed,6086868,Medium,Rejected
+1420,St. Catherine,60,Employed,7452021,Medium,Verified
+1421,Kingston,24,Self-Employed,1472225,Low,Verified
+1422,Kingston,31,Employed,4310463,Low,Pending
+1423,Clarendon,51,Employed,2240334,Low,Verified
+1424,St. James,63,Employed,2924365,Medium,Pending
+1425,St. James,52,Employed,3870610,Low,Verified
+1426,St. Catherine,47,Employed,4003178,High,Verified
+1427,Manchester,50,Self-Employed,1197693,High,Verified
+1428,St. James,63,Employed,4532238,Medium,Pending
+1429,Clarendon,22,Self-Employed,2772613,High,Rejected
+1430,St. Catherine,69,Unemployed,3415880,Low,Verified
+1431,St. Catherine,29,Employed,4624484,Low,Verified
+1432,Clarendon,48,Self-Employed,3958483,Low,Verified
+1433,Manchester,51,Unemployed,6699105,Medium,Verified
+1434,Clarendon,54,Unemployed,4135705,Low,Verified
+1435,Manchester,35,Unemployed,6212049,High,Verified
+1436,Clarendon,68,Self-Employed,2144091,Low,Verified
+1437,Clarendon,45,Employed,7326588,Low,Verified
+1438,Kingston,56,Employed,1204470,High,Verified
+1439,St. Catherine,28,Self-Employed,5129394,Low,Rejected
+1440,Clarendon,29,Employed,1591624,Low,Pending
+1441,Clarendon,57,Self-Employed,7879903,Medium,Verified
+1442,St. James,68,Employed,5888890,Low,Pending
+1443,St. Catherine,65,Unemployed,5718580,Low,Verified
+1444,St. James,59,Employed,2401207,Low,Pending
+1445,St. Catherine,52,Self-Employed,5850042,Low,Verified
+1446,St. James,37,Self-Employed,6048709,High,Verified
+1447,Clarendon,55,Unemployed,2407245,High,Pending
+1448,Clarendon,57,Self-Employed,3795035,Low,Verified
+1449,Kingston,39,Employed,3109305,Low,Rejected
+1450,St. James,64,Employed,7371863,Low,Pending
+1451,Manchester,49,Unemployed,3656188,High,Rejected
+1452,Kingston,27,Self-Employed,3343628,Low,Verified
+1453,St. James,48,Unemployed,7003690,Low,Verified
+1454,St. James,29,Employed,1284427,Medium,Verified
+1455,Kingston,48,Unemployed,3217714,High,Rejected
+1456,Clarendon,26,Self-Employed,6789138,Low,Verified
+1457,St. James,49,Unemployed,5518740,Low,Verified
+1458,Clarendon,37,Self-Employed,4758905,Low,Verified
+1459,Kingston,36,Self-Employed,5591506,Low,Verified
+1460,Clarendon,43,Employed,6547991,Medium,Verified
+1461,St. Catherine,51,Employed,7016217,Medium,Verified
+1462,Manchester,23,Employed,4883372,Medium,Pending
+1463,St. James,41,Self-Employed,7035291,Low,Verified
+1464,Manchester,46,Unemployed,1909229,Low,Pending
+1465,Clarendon,56,Self-Employed,4693623,Low,Verified
+1466,St. James,62,Employed,5186897,Low,Verified
+1467,Clarendon,57,Employed,7431915,Medium,Verified
+1468,St. Catherine,42,Unemployed,6336099,Low,Verified
+1469,Kingston,62,Employed,6991081,Low,Verified
+1470,St. James,32,Employed,2889884,Low,Pending
+1471,St. Catherine,62,Employed,5966352,Low,Verified
+1472,St. Catherine,33,Unemployed,5004099,Low,Verified
+1473,St. James,31,Self-Employed,6631723,High,Verified
+1474,Clarendon,36,Employed,4180796,Low,Pending
+1475,St. Catherine,28,Unemployed,2311546,Medium,Verified
+1476,Manchester,60,Employed,5621699,Low,Verified
+1477,St. Catherine,60,Unemployed,7405129,Low,Verified
+1478,Clarendon,65,Employed,6972056,High,Rejected
+1479,Clarendon,22,Unemployed,2296030,Low,Verified
+1480,Manchester,50,Employed,3649090,Medium,Verified
+1481,St. Catherine,50,Self-Employed,4112750,Low,Verified
+1482,Clarendon,32,Employed,811009,Medium,Pending
+1483,St. James,30,Unemployed,5172472,Medium,Verified
+1484,Kingston,64,Employed,2523480,High,Pending
+1485,Kingston,31,Self-Employed,4499397,High,Verified
+1486,Kingston,35,Employed,7481369,Medium,Verified
+1487,St. Catherine,36,Unemployed,2791367,Low,Verified
+1488,Manchester,37,Unemployed,6369634,Medium,Pending
+1489,Clarendon,46,Self-Employed,1130328,Medium,Verified
+1490,St. James,22,Unemployed,7524753,Low,Pending
+1491,St. James,32,Employed,5209013,Low,Verified
+1492,St. Catherine,46,Employed,3508668,High,Rejected
+1493,Kingston,43,Employed,5853679,Low,Verified
+1494,St. Catherine,38,Unemployed,1800294,Low,Verified
+1495,Manchester,52,Employed,3998454,High,Verified
+1496,Manchester,69,Employed,6458307,Low,Verified
+1497,Clarendon,58,Employed,1746984,Low,Verified
+1498,Clarendon,67,Self-Employed,3085362,Medium,Verified
+1499,Manchester,23,Unemployed,3642894,Low,Verified
+1500,Manchester,58,Unemployed,4250375,Medium,Verified
+1501,Manchester,23,Unemployed,6887205,Low,Verified
+1502,St. Catherine,50,Self-Employed,977265,Low,Verified
+1503,Manchester,21,Unemployed,5842094,Low,Verified
+1504,St. James,50,Self-Employed,4026585,High,Verified
+1505,Kingston,65,Self-Employed,4328329,Low,Verified
+1506,Manchester,52,Unemployed,3836773,Low,Verified
+1507,Kingston,48,Employed,6302285,Low,Pending
+1508,St. Catherine,41,Employed,5184432,Low,Rejected
+1509,Kingston,66,Unemployed,2490792,Low,Verified
+1510,St. Catherine,33,Unemployed,2431570,Low,Verified
+1511,St. James,47,Self-Employed,2775556,Medium,Verified
+1512,St. Catherine,56,Unemployed,4290678,Low,Verified
+1513,St. Catherine,27,Self-Employed,5573598,Medium,Verified
+1514,Clarendon,42,Unemployed,2460102,Medium,Verified
+1515,Manchester,30,Employed,3145170,Low,Verified
+1516,Manchester,59,Employed,2311710,Low,Verified
+1517,St. James,35,Unemployed,2567091,Medium,Verified
+1518,St. James,35,Self-Employed,1632230,Medium,Verified
+1519,Manchester,24,Employed,6120151,Low,Verified
+1520,Clarendon,52,Self-Employed,1616609,High,Verified
+1521,Manchester,43,Unemployed,4435192,Low,Verified
+1522,Clarendon,26,Unemployed,5384470,Low,Pending
+1523,St. James,44,Employed,7607087,Low,Pending
+1524,Kingston,40,Unemployed,4862316,High,Verified
+1525,St. James,57,Employed,6387239,Medium,Verified
+1526,St. James,40,Self-Employed,3988741,Medium,Verified
+1527,St. Catherine,32,Employed,4964133,Low,Verified
+1528,St. Catherine,53,Employed,2455464,Low,Verified
+1529,St. Catherine,48,Self-Employed,2206819,Low,Verified
+1530,St. Catherine,28,Employed,6358474,High,Verified
+1531,Clarendon,21,Employed,7476240,Low,Verified
+1532,Manchester,57,Unemployed,1678835,Low,Rejected
+1533,Kingston,42,Self-Employed,7530054,Low,Pending
+1534,St. James,26,Employed,1423578,High,Verified
+1535,Clarendon,41,Self-Employed,4077560,Low,Verified
+1536,Kingston,52,Self-Employed,3969870,Low,Verified
+1537,Clarendon,55,Employed,3269485,Low,Pending
+1538,Clarendon,35,Unemployed,5888268,High,Pending
+1539,St. James,25,Self-Employed,3831946,High,Rejected
+1540,Manchester,66,Employed,7222892,Medium,Verified
+1541,St. Catherine,68,Self-Employed,5837657,Low,Pending
+1542,Manchester,26,Unemployed,3179093,Low,Verified
+1543,St. James,45,Unemployed,6280283,High,Pending
+1544,St. James,66,Unemployed,6599703,Low,Pending
+1545,St. James,60,Employed,5302748,Low,Verified
+1546,Kingston,49,Employed,7107561,Low,Verified
+1547,Manchester,27,Unemployed,3560451,High,Pending
+1548,Manchester,60,Employed,5598064,Low,Verified
+1549,Clarendon,33,Unemployed,1497389,Medium,Verified
+1550,Clarendon,58,Employed,6714103,High,Verified
+1551,Clarendon,38,Unemployed,7169553,Low,Verified
+1552,St. James,22,Self-Employed,5255978,Low,Verified
+1553,Manchester,28,Unemployed,7232975,High,Verified
+1554,St. James,31,Unemployed,4566176,High,Verified
+1555,Kingston,53,Employed,5041244,High,Verified
+1556,Clarendon,58,Employed,4973414,Medium,Verified
+1557,St. James,68,Employed,5727611,Low,Verified
+1558,St. James,47,Employed,7176457,High,Verified
+1559,Kingston,40,Employed,4704840,Low,Verified
+1560,St. Catherine,32,Employed,4620730,High,Verified
+1561,Manchester,63,Self-Employed,3649310,High,Pending
+1562,St. Catherine,51,Unemployed,3648411,Medium,Verified
+1563,Clarendon,47,Unemployed,4144443,High,Pending
+1564,St. James,52,Unemployed,1856504,Medium,Verified
+1565,Kingston,30,Self-Employed,3244149,Low,Rejected
+1566,Kingston,23,Unemployed,7730358,Medium,Verified
+1567,Manchester,65,Self-Employed,3014669,Low,Verified
+1568,St. Catherine,47,Self-Employed,2754702,Medium,Verified
+1569,Manchester,55,Self-Employed,6449409,Low,Verified
+1570,St. James,51,Unemployed,5389079,Low,Verified
+1571,Manchester,35,Self-Employed,1899469,High,Verified
+1572,Kingston,36,Unemployed,6320191,High,Verified
+1573,Kingston,33,Unemployed,4944111,Low,Pending
+1574,Clarendon,69,Employed,3460038,Medium,Verified
+1575,Clarendon,55,Employed,1987171,Medium,Verified
+1576,St. James,31,Self-Employed,3733361,High,Verified
+1577,St. Catherine,41,Self-Employed,1221655,Low,Verified
+1578,Manchester,31,Unemployed,6421402,Medium,Rejected
+1579,St. James,50,Self-Employed,6123940,High,Pending
+1580,Clarendon,68,Self-Employed,1599717,Low,Pending
+1581,Manchester,55,Unemployed,6447069,High,Rejected
+1582,Clarendon,42,Self-Employed,3282266,High,Verified
+1583,Manchester,58,Self-Employed,7638438,High,Verified
+1584,St. Catherine,51,Unemployed,6996158,Low,Verified
+1585,St. James,34,Unemployed,1721806,Low,Pending
+1586,Manchester,44,Employed,4207129,High,Pending
+1587,Kingston,69,Unemployed,5765440,Low,Verified
+1588,Kingston,52,Employed,1591043,Medium,Verified
+1589,Manchester,56,Self-Employed,4101112,Low,Rejected
+1590,Manchester,52,Unemployed,1993728,Low,Verified
+1591,Manchester,35,Unemployed,5861354,Low,Pending
+1592,Kingston,63,Unemployed,7728689,Medium,Verified
+1593,Kingston,55,Self-Employed,7986285,Low,Verified
+1594,Manchester,23,Employed,7711957,Medium,Verified
+1595,Clarendon,36,Self-Employed,7112330,Medium,Verified
+1596,Clarendon,25,Self-Employed,2304329,Medium,Verified
+1597,St. Catherine,41,Unemployed,2577850,Medium,Verified
+1598,St. James,30,Employed,7486269,Low,Pending
+1599,Clarendon,39,Self-Employed,1335888,Low,Verified
+1600,Kingston,45,Unemployed,7957303,Low,Pending
+1601,Clarendon,24,Self-Employed,4718446,Medium,Verified
+1602,St. Catherine,49,Self-Employed,3368921,Medium,Pending
+1603,St. Catherine,39,Unemployed,7771631,Low,Verified
+1604,St. James,63,Unemployed,5734164,Low,Verified
+1605,Clarendon,22,Employed,5612940,Medium,Verified
+1606,Kingston,30,Self-Employed,3002888,Low,Verified
+1607,Kingston,63,Unemployed,2659722,High,Pending
+1608,Manchester,45,Unemployed,7503562,Low,Verified
+1609,Kingston,40,Employed,4924741,High,Verified
+1610,St. James,68,Employed,3352192,Low,Pending
+1611,St. James,39,Unemployed,935797,Low,Verified
+1612,Kingston,43,Employed,3333573,Low,Pending
+1613,Kingston,44,Unemployed,2524620,Low,Verified
+1614,Manchester,31,Self-Employed,3382229,Low,Pending
+1615,Kingston,66,Employed,5969719,Low,Verified
+1616,Manchester,54,Self-Employed,3912734,Medium,Rejected
+1617,Manchester,48,Self-Employed,5630165,Low,Verified
+1618,Kingston,25,Self-Employed,7366692,Medium,Verified
+1619,St. Catherine,25,Unemployed,1158062,Low,Verified
+1620,St. Catherine,41,Self-Employed,7116913,High,Verified
+1621,Manchester,32,Self-Employed,3755251,Medium,Verified
+1622,Kingston,24,Self-Employed,2877645,Low,Verified
+1623,St. Catherine,69,Unemployed,2201471,Low,Verified
+1624,Kingston,62,Self-Employed,7154350,Low,Pending
+1625,Kingston,40,Self-Employed,5579897,Low,Verified
+1626,Kingston,58,Employed,2516548,Medium,Pending
+1627,Clarendon,45,Unemployed,5752505,Medium,Verified
+1628,Kingston,34,Self-Employed,5204003,High,Verified
+1629,Clarendon,31,Employed,1818143,Medium,Pending
+1630,Manchester,52,Unemployed,4900321,High,Pending
+1631,St. Catherine,31,Unemployed,4958527,High,Verified
+1632,St. Catherine,38,Unemployed,2687145,High,Verified
+1633,St. Catherine,47,Unemployed,2897711,Low,Verified
+1634,St. Catherine,38,Unemployed,6895561,Low,Verified
+1635,St. Catherine,43,Unemployed,837361,Low,Verified
+1636,St. Catherine,31,Self-Employed,7958608,Medium,Verified
+1637,St. Catherine,41,Self-Employed,3698845,Low,Verified
+1638,Manchester,64,Self-Employed,4263227,Low,Verified
+1639,Kingston,25,Self-Employed,3257856,Low,Rejected
+1640,St. James,43,Employed,2561856,Low,Pending
+1641,Clarendon,61,Self-Employed,3141102,Medium,Verified
+1642,St. James,45,Unemployed,4371488,Low,Verified
+1643,St. James,61,Self-Employed,800037,Medium,Verified
+1644,Kingston,30,Self-Employed,7789848,Medium,Pending
+1645,Kingston,42,Unemployed,4417177,Low,Verified
+1646,Kingston,39,Self-Employed,5297868,Medium,Verified
+1647,St. Catherine,21,Self-Employed,1421531,Medium,Verified
+1648,Manchester,27,Self-Employed,7051936,Low,Verified
+1649,St. Catherine,24,Employed,1453668,Low,Verified
+1650,Manchester,21,Self-Employed,4204158,Low,Pending
+1651,Manchester,35,Unemployed,3456040,Medium,Verified
+1652,St. James,60,Unemployed,1503645,Medium,Verified
+1653,St. James,32,Self-Employed,5711672,Low,Verified
+1654,Manchester,42,Self-Employed,2105927,Low,Verified
+1655,Manchester,42,Self-Employed,3421872,Low,Verified
+1656,St. Catherine,67,Unemployed,5780142,High,Verified
+1657,St. Catherine,37,Unemployed,1393975,Low,Verified
+1658,St. James,49,Employed,3665728,High,Rejected
+1659,Kingston,66,Employed,5852683,Low,Rejected
+1660,Manchester,34,Employed,7974212,Medium,Verified
+1661,St. Catherine,40,Unemployed,4783063,Medium,Pending
+1662,St. James,68,Employed,3082373,Medium,Rejected
+1663,St. Catherine,53,Self-Employed,3640152,Low,Verified
+1664,Manchester,63,Self-Employed,3350552,Medium,Verified
+1665,Manchester,35,Unemployed,1652224,Low,Verified
+1666,Clarendon,32,Employed,3192735,Low,Verified
+1667,Kingston,60,Self-Employed,6218626,Medium,Pending
+1668,Clarendon,40,Unemployed,2161968,High,Verified
+1669,St. James,50,Employed,4422546,Medium,Verified
+1670,St. Catherine,58,Self-Employed,5695035,Low,Verified
+1671,St. James,23,Employed,6796522,Medium,Verified
+1672,Manchester,48,Unemployed,4406940,Medium,Verified
+1673,Clarendon,46,Employed,6735537,High,Verified
+1674,Clarendon,50,Unemployed,3868929,High,Verified
+1675,Clarendon,33,Employed,4400200,Medium,Pending
+1676,St. James,33,Self-Employed,1359031,Low,Pending
+1677,Manchester,22,Unemployed,7291280,Medium,Pending
+1678,St. Catherine,57,Unemployed,3501243,Medium,Pending
+1679,St. Catherine,69,Unemployed,6244003,High,Pending
+1680,St. James,58,Employed,2919228,Low,Verified
+1681,Clarendon,22,Employed,5235728,Low,Verified
+1682,Kingston,56,Self-Employed,1006384,Low,Verified
+1683,St. James,46,Unemployed,7342155,Medium,Verified
+1684,St. James,31,Unemployed,7965371,High,Verified
+1685,Manchester,28,Employed,7749779,Low,Pending
+1686,St. Catherine,64,Employed,4327089,Medium,Verified
+1687,St. James,60,Self-Employed,4935554,Medium,Verified
+1688,St. James,63,Self-Employed,5139242,Medium,Verified
+1689,Clarendon,42,Employed,3788088,Low,Verified
+1690,Clarendon,40,Unemployed,7254833,High,Rejected
+1691,Kingston,28,Self-Employed,1779907,Low,Verified
+1692,Manchester,49,Employed,1013968,Medium,Verified
+1693,Kingston,60,Employed,5382692,Low,Verified
+1694,Clarendon,46,Unemployed,1094957,Low,Pending
+1695,St. Catherine,50,Employed,2701737,High,Verified
+1696,Clarendon,37,Employed,5972494,Low,Verified
+1697,Manchester,40,Self-Employed,5785248,Low,Pending
+1698,Clarendon,36,Employed,3147855,Medium,Verified
+1699,Manchester,66,Employed,2264458,Medium,Verified
+1700,Manchester,63,Self-Employed,6190582,Medium,Verified
+1701,Manchester,27,Unemployed,7209363,Low,Pending
+1702,Manchester,36,Unemployed,3102743,Low,Verified
+1703,Manchester,65,Self-Employed,5388156,Low,Verified
+1704,St. Catherine,67,Self-Employed,1785461,Low,Verified
+1705,Kingston,68,Unemployed,6631759,High,Verified
+1706,St. James,47,Unemployed,3421021,Low,Verified
+1707,Kingston,43,Unemployed,4155361,Low,Verified
+1708,Manchester,44,Unemployed,6510912,Low,Verified
+1709,St. Catherine,29,Unemployed,2606423,Low,Verified
+1710,Clarendon,55,Self-Employed,7889239,Medium,Verified
+1711,St. Catherine,40,Employed,2750408,Medium,Verified
+1712,Manchester,57,Unemployed,1427915,Low,Verified
+1713,St. Catherine,62,Unemployed,4394128,Low,Verified
+1714,St. Catherine,37,Employed,1976957,Low,Verified
+1715,Manchester,67,Employed,2206427,Medium,Rejected
+1716,St. Catherine,51,Employed,4289550,Medium,Verified
+1717,St. James,28,Employed,7689053,Low,Verified
+1718,St. James,35,Employed,4695090,Low,Verified
+1719,St. Catherine,51,Employed,2645786,Medium,Verified
+1720,Clarendon,50,Self-Employed,3565013,High,Pending
+1721,Manchester,66,Employed,7990601,High,Verified
+1722,St. James,40,Employed,6962492,Low,Verified
+1723,Clarendon,59,Self-Employed,836382,Low,Verified
+1724,St. Catherine,32,Employed,7838170,Low,Verified
+1725,Clarendon,69,Unemployed,1662219,Medium,Verified
+1726,Kingston,37,Unemployed,6066221,High,Verified
+1727,St. James,62,Employed,2518303,Low,Pending
+1728,St. Catherine,50,Self-Employed,4852127,Low,Pending
+1729,Manchester,49,Unemployed,2074856,Low,Verified
+1730,St. Catherine,39,Self-Employed,4601082,Low,Verified
+1731,Manchester,66,Unemployed,4146668,Low,Pending
+1732,St. Catherine,31,Employed,7496674,Medium,Verified
+1733,Clarendon,54,Self-Employed,4729268,Low,Verified
+1734,Clarendon,27,Self-Employed,3507260,Low,Pending
+1735,Clarendon,64,Self-Employed,4005677,Medium,Verified
+1736,Kingston,54,Unemployed,3306068,Low,Verified
+1737,Manchester,40,Unemployed,7826121,Low,Verified
+1738,Clarendon,58,Unemployed,2435407,Low,Verified
+1739,Kingston,44,Employed,4892550,High,Rejected
+1740,Manchester,30,Unemployed,1283075,Medium,Verified
+1741,St. Catherine,52,Employed,4759770,Low,Rejected
+1742,Kingston,35,Self-Employed,7603928,Medium,Verified
+1743,St. James,57,Self-Employed,2577310,Low,Verified
+1744,Kingston,40,Employed,1127370,Medium,Verified
+1745,Kingston,23,Unemployed,3728751,Medium,Verified
+1746,Manchester,57,Employed,6251731,High,Verified
+1747,St. Catherine,60,Self-Employed,7546037,Low,Verified
+1748,St. James,28,Self-Employed,2964533,High,Pending
+1749,Clarendon,60,Employed,1633142,High,Rejected
+1750,Clarendon,64,Unemployed,5273214,High,Verified
+1751,Kingston,43,Unemployed,5096720,Medium,Verified
+1752,Manchester,60,Employed,4482796,Low,Pending
+1753,Manchester,31,Employed,6091338,Low,Verified
+1754,Clarendon,66,Unemployed,1642653,Low,Verified
+1755,St. James,28,Self-Employed,2636517,Low,Rejected
+1756,St. Catherine,49,Employed,1151637,Medium,Verified
+1757,St. James,50,Unemployed,7519018,Medium,Verified
+1758,St. Catherine,30,Unemployed,5897586,High,Verified
+1759,Clarendon,59,Self-Employed,977946,Low,Verified
+1760,St. Catherine,48,Self-Employed,5937956,Low,Verified
+1761,Manchester,69,Self-Employed,6074413,Medium,Verified
+1762,Kingston,56,Self-Employed,5888880,Low,Rejected
+1763,Kingston,33,Self-Employed,1664899,Low,Verified
+1764,Clarendon,52,Employed,1063503,High,Verified
+1765,Manchester,56,Unemployed,7210575,Medium,Verified
+1766,St. James,57,Employed,3118292,Low,Pending
+1767,Manchester,46,Employed,2826393,High,Rejected
+1768,Kingston,42,Employed,3802083,Medium,Pending
+1769,Kingston,24,Employed,5326226,Medium,Verified
+1770,Manchester,51,Employed,3179897,High,Rejected
+1771,Manchester,38,Self-Employed,2094416,Low,Verified
+1772,Kingston,58,Self-Employed,2785196,Medium,Verified
+1773,St. James,44,Unemployed,4718198,Low,Verified
+1774,Clarendon,43,Employed,2360121,Low,Verified
+1775,Clarendon,42,Unemployed,6678263,High,Pending
+1776,Manchester,22,Self-Employed,1243035,Medium,Verified
+1777,Clarendon,51,Self-Employed,3899072,Medium,Verified
+1778,Kingston,31,Self-Employed,2835115,High,Verified
+1779,Kingston,48,Employed,7450723,High,Verified
+1780,Manchester,66,Employed,6873770,High,Verified
+1781,Manchester,52,Self-Employed,5904961,Low,Verified
+1782,Manchester,25,Unemployed,7754896,Low,Verified
+1783,St. James,58,Unemployed,6000551,Low,Verified
+1784,Clarendon,30,Self-Employed,1489317,Low,Pending
+1785,Manchester,60,Unemployed,5352636,Low,Rejected
+1786,St. Catherine,66,Self-Employed,1551240,Medium,Rejected
+1787,St. Catherine,44,Unemployed,5115596,Medium,Pending
+1788,Kingston,55,Self-Employed,5084874,High,Verified
+1789,Clarendon,64,Unemployed,7575996,Medium,Pending
+1790,Manchester,68,Employed,1795791,Medium,Verified
+1791,St. Catherine,43,Self-Employed,3020943,Low,Pending
+1792,Clarendon,37,Self-Employed,3862138,Low,Verified
+1793,Kingston,21,Unemployed,2341121,Low,Pending
+1794,St. James,51,Self-Employed,7607145,Medium,Verified
+1795,Clarendon,51,Self-Employed,2760299,Low,Verified
+1796,Clarendon,62,Self-Employed,5879111,Medium,Verified
+1797,St. James,62,Employed,3653501,Medium,Verified
+1798,Clarendon,54,Employed,3627433,Low,Rejected
+1799,Kingston,29,Unemployed,7082444,Low,Verified
+1800,Kingston,42,Employed,6413904,Low,Verified
+1801,St. James,33,Unemployed,3259622,Low,Rejected
+1802,Manchester,45,Employed,7238359,Medium,Verified
+1803,St. Catherine,68,Unemployed,6980509,Medium,Verified
+1804,Manchester,38,Employed,2697459,Medium,Verified
+1805,Clarendon,32,Employed,5040012,High,Verified
+1806,St. Catherine,60,Unemployed,4749842,Medium,Pending
+1807,St. James,37,Self-Employed,6518920,High,Pending
+1808,St. James,35,Self-Employed,2015442,Low,Rejected
+1809,St. Catherine,62,Employed,6364396,Medium,Verified
+1810,Kingston,35,Unemployed,4917095,Low,Verified
+1811,St. Catherine,35,Self-Employed,3380309,Low,Verified
+1812,Clarendon,59,Unemployed,4115537,Low,Pending
+1813,Kingston,33,Self-Employed,7225148,Medium,Verified
+1814,St. James,37,Unemployed,3391318,Low,Verified
+1815,St. Catherine,52,Employed,7849985,Low,Verified
+1816,Manchester,29,Unemployed,5951946,High,Verified
+1817,Manchester,60,Self-Employed,7826206,High,Pending
+1818,Clarendon,40,Employed,5047328,Medium,Verified
+1819,Manchester,46,Unemployed,2251469,Medium,Verified
+1820,St. Catherine,47,Self-Employed,6218063,High,Verified
+1821,St. Catherine,41,Employed,4100874,Medium,Pending
+1822,Manchester,38,Unemployed,5536416,Low,Verified
+1823,St. Catherine,33,Self-Employed,4863997,High,Verified
+1824,Clarendon,36,Unemployed,5512838,Medium,Verified
+1825,Kingston,29,Unemployed,6926463,Low,Verified
+1826,Clarendon,32,Employed,848926,Low,Pending
+1827,Clarendon,64,Employed,6210812,Low,Verified
+1828,St. Catherine,58,Self-Employed,7366575,High,Rejected
+1829,Kingston,39,Employed,7952765,Low,Verified
+1830,St. Catherine,27,Self-Employed,6791917,High,Pending
+1831,St. James,55,Unemployed,6907182,High,Pending
+1832,St. Catherine,68,Unemployed,6812621,Medium,Verified
+1833,St. Catherine,38,Self-Employed,4551387,Medium,Verified
+1834,St. Catherine,36,Unemployed,3579060,Low,Verified
+1835,Kingston,59,Employed,5357418,Low,Verified
+1836,St. Catherine,24,Unemployed,1283791,Low,Verified
+1837,Kingston,45,Employed,2470930,Medium,Verified
+1838,Manchester,52,Self-Employed,7785552,Low,Pending
+1839,St. James,60,Self-Employed,2958714,Low,Verified
+1840,Kingston,33,Unemployed,4248281,Low,Pending
+1841,Manchester,65,Unemployed,2850181,High,Verified
+1842,Kingston,37,Employed,1596266,Low,Verified
+1843,Kingston,69,Employed,3422280,High,Rejected
+1844,St. James,57,Unemployed,5729073,Low,Verified
+1845,Clarendon,26,Unemployed,5025872,Medium,Verified
+1846,Clarendon,39,Self-Employed,5791582,Low,Pending
+1847,Kingston,33,Self-Employed,1461259,Medium,Rejected
+1848,St. Catherine,46,Self-Employed,1410326,Medium,Verified
+1849,Manchester,34,Unemployed,2045749,Low,Verified
+1850,St. Catherine,51,Unemployed,1756277,Medium,Verified
+1851,St. Catherine,24,Unemployed,3026941,Medium,Verified
+1852,Kingston,59,Self-Employed,2218180,Medium,Verified
+1853,Kingston,28,Unemployed,5496298,Medium,Verified
+1854,Kingston,45,Employed,874723,Low,Verified
+1855,Kingston,33,Unemployed,7033146,Medium,Pending
+1856,Clarendon,52,Unemployed,7854499,High,Pending
+1857,Kingston,58,Unemployed,7457794,High,Verified
+1858,Clarendon,58,Unemployed,3818967,High,Verified
+1859,Clarendon,48,Unemployed,4526904,Low,Verified
+1860,Kingston,50,Employed,6870928,Medium,Verified
+1861,St. James,23,Employed,7798950,Medium,Verified
+1862,Manchester,48,Unemployed,2333017,Low,Verified
+1863,St. Catherine,23,Self-Employed,1592515,High,Verified
+1864,Clarendon,65,Unemployed,6710838,Medium,Rejected
+1865,Manchester,54,Unemployed,2193196,Low,Pending
+1866,St. James,36,Unemployed,1835211,Low,Pending
+1867,St. Catherine,42,Self-Employed,2989568,High,Verified
+1868,St. Catherine,52,Self-Employed,4734740,Low,Verified
+1869,Clarendon,58,Self-Employed,1447122,Low,Verified
+1870,Kingston,28,Employed,4582164,Low,Pending
+1871,St. James,28,Self-Employed,2561331,Low,Verified
+1872,Clarendon,26,Employed,2677329,High,Verified
+1873,St. James,34,Employed,3692970,Low,Verified
+1874,Kingston,52,Self-Employed,1115315,Medium,Verified
+1875,Kingston,55,Self-Employed,950594,High,Verified
+1876,Clarendon,30,Self-Employed,1520892,Medium,Verified
+1877,Kingston,23,Employed,7576432,Low,Verified
+1878,Manchester,32,Unemployed,4863903,Medium,Verified
+1879,St. Catherine,69,Self-Employed,6076425,Low,Verified
+1880,Clarendon,51,Self-Employed,5179455,Low,Verified
+1881,St. James,49,Self-Employed,4759015,Medium,Pending
+1882,Manchester,25,Employed,2932942,High,Verified
+1883,Clarendon,45,Employed,3472452,Medium,Verified
+1884,Kingston,61,Unemployed,3014979,High,Verified
+1885,Kingston,51,Self-Employed,4205851,Medium,Rejected
+1886,Kingston,41,Employed,996211,Medium,Verified
+1887,Kingston,40,Unemployed,2636082,High,Verified
+1888,St. James,59,Self-Employed,7527348,Low,Verified
+1889,Manchester,42,Employed,3037699,Low,Verified
+1890,St. Catherine,24,Self-Employed,5140496,Medium,Verified
+1891,St. James,33,Self-Employed,5258434,Medium,Verified
+1892,St. James,65,Employed,2613065,Low,Rejected
+1893,St. Catherine,62,Employed,7779246,Low,Pending
+1894,St. Catherine,69,Employed,5757161,Low,Rejected
+1895,Kingston,40,Self-Employed,5387281,Medium,Verified
+1896,St. James,33,Self-Employed,6307200,High,Pending
+1897,Clarendon,37,Unemployed,5602850,High,Verified
+1898,St. Catherine,56,Self-Employed,1177332,Medium,Verified
+1899,St. Catherine,53,Employed,884153,High,Pending
+1900,Manchester,21,Self-Employed,6760158,Low,Verified
+1901,Clarendon,35,Unemployed,5778234,Low,Verified
+1902,Clarendon,33,Unemployed,7511787,Low,Verified
+1903,St. Catherine,37,Employed,5752576,Medium,Verified
+1904,Kingston,44,Employed,1926018,Low,Rejected
+1905,Manchester,28,Unemployed,4772162,Medium,Verified
+1906,Clarendon,47,Unemployed,6966994,Medium,Verified
+1907,St. Catherine,65,Unemployed,4972060,Low,Verified
+1908,Clarendon,43,Employed,7403352,High,Pending
+1909,Manchester,66,Unemployed,2108064,Medium,Verified
+1910,Manchester,28,Unemployed,878947,Low,Verified
+1911,St. James,28,Employed,2753980,Low,Pending
+1912,St. Catherine,46,Self-Employed,7952604,Medium,Verified
+1913,Manchester,67,Self-Employed,3338361,Low,Verified
+1914,St. James,33,Unemployed,4769411,Low,Pending
+1915,St. James,59,Self-Employed,7187952,Medium,Verified
+1916,Clarendon,57,Self-Employed,6769677,High,Pending
+1917,Clarendon,69,Self-Employed,7916785,Low,Verified
+1918,St. James,48,Self-Employed,1768410,High,Rejected
+1919,Clarendon,45,Unemployed,3210912,High,Rejected
+1920,Manchester,36,Self-Employed,3399087,Low,Verified
+1921,Kingston,22,Self-Employed,4736642,Medium,Verified
+1922,Manchester,38,Employed,3267286,Low,Rejected
+1923,St. James,37,Unemployed,4167764,Low,Verified
+1924,St. James,50,Employed,4411880,Medium,Verified
+1925,Manchester,59,Employed,1494934,Medium,Verified
+1926,Clarendon,33,Unemployed,1840835,Low,Pending
+1927,Clarendon,52,Self-Employed,2678292,High,Pending
+1928,St. James,49,Employed,7426532,Medium,Verified
+1929,St. Catherine,66,Unemployed,5263786,High,Verified
+1930,Clarendon,50,Self-Employed,6186452,Low,Pending
+1931,Manchester,38,Unemployed,942617,High,Pending
+1932,Clarendon,33,Employed,7677224,Low,Verified
+1933,Manchester,63,Self-Employed,7752057,Low,Rejected
+1934,St. James,41,Self-Employed,2068962,Medium,Pending
+1935,Clarendon,50,Unemployed,5934629,Medium,Verified
+1936,Manchester,41,Self-Employed,2901847,Medium,Pending
+1937,St. James,68,Employed,5726730,Low,Verified
+1938,St. Catherine,37,Employed,1830120,Low,Verified
+1939,Manchester,60,Employed,1834780,Medium,Verified
+1940,St. Catherine,39,Unemployed,4484334,Low,Pending
+1941,St. Catherine,35,Self-Employed,7928822,Medium,Rejected
+1942,Kingston,29,Self-Employed,2264123,Low,Verified
+1943,Clarendon,30,Self-Employed,6426306,High,Verified
+1944,Manchester,64,Employed,2556608,Medium,Verified
+1945,St. Catherine,51,Self-Employed,3367228,Medium,Pending
+1946,Kingston,43,Employed,1549045,High,Pending
+1947,St. James,50,Self-Employed,6111634,Medium,Verified
+1948,Manchester,53,Employed,1672109,Low,Verified
+1949,St. Catherine,29,Self-Employed,4834480,Low,Verified
+1950,Clarendon,67,Unemployed,1187405,Medium,Verified
+1951,Kingston,21,Unemployed,7605360,Low,Verified
+1952,St. Catherine,64,Employed,5361786,Medium,Pending
+1953,Clarendon,55,Employed,5558669,Low,Verified
+1954,St. Catherine,31,Self-Employed,5336363,Low,Verified
+1955,Manchester,54,Self-Employed,2508175,Medium,Verified
+1956,Manchester,36,Unemployed,4187232,High,Verified
+1957,Manchester,29,Self-Employed,3901004,Medium,Verified
+1958,Kingston,52,Employed,6334693,High,Verified
+1959,Manchester,35,Employed,3732208,High,Verified
+1960,Clarendon,32,Employed,2710155,Low,Pending
+1961,St. Catherine,53,Employed,2508086,Low,Verified
+1962,St. James,65,Employed,4987442,Medium,Pending
+1963,Clarendon,34,Unemployed,4612197,High,Verified
+1964,Clarendon,28,Unemployed,4700838,Medium,Verified
+1965,Manchester,28,Employed,1481376,High,Verified
+1966,Kingston,47,Self-Employed,2515872,Low,Rejected
+1967,St. Catherine,32,Employed,7233564,Low,Verified
+1968,Kingston,21,Unemployed,1756740,Medium,Verified
+1969,St. Catherine,63,Employed,6187973,Low,Rejected
+1970,St. Catherine,60,Unemployed,7914831,Low,Verified
+1971,Kingston,62,Unemployed,3010846,Low,Pending
+1972,Clarendon,31,Employed,5228760,Low,Verified
+1973,St. Catherine,59,Employed,3109231,Medium,Verified
+1974,Kingston,63,Self-Employed,7534688,High,Verified
+1975,St. Catherine,51,Unemployed,5410764,High,Rejected
+1976,St. James,37,Self-Employed,2304819,Medium,Verified
+1977,Clarendon,53,Employed,6812553,Low,Verified
+1978,Manchester,52,Unemployed,7214807,Medium,Verified
+1979,St. Catherine,49,Self-Employed,5295433,Low,Verified
+1980,St. James,41,Self-Employed,6015784,Low,Pending
+1981,Manchester,41,Self-Employed,2767582,Low,Verified
+1982,Manchester,60,Employed,1640268,High,Verified
+1983,St. Catherine,43,Employed,6929026,High,Verified
+1984,Kingston,26,Employed,6570938,Medium,Verified
+1985,St. Catherine,42,Unemployed,5823601,Medium,Verified
+1986,St. James,58,Employed,7145267,Low,Verified
+1987,Manchester,57,Unemployed,7357601,Medium,Pending
+1988,St. Catherine,65,Self-Employed,4530864,Medium,Rejected
+1989,Kingston,28,Self-Employed,852635,Low,Verified
+1990,St. Catherine,61,Employed,5015250,Low,Pending
+1991,Clarendon,69,Self-Employed,1783638,High,Verified
+1992,Kingston,55,Employed,7711596,Medium,Verified
+1993,St. James,31,Unemployed,6396127,High,Verified
+1994,Manchester,44,Self-Employed,7576716,High,Verified
+1995,St. Catherine,69,Employed,4775904,High,Verified
+1996,Kingston,41,Self-Employed,4063457,Low,Pending
+1997,Clarendon,22,Self-Employed,4986080,Low,Rejected
+1998,Kingston,60,Employed,3591671,Low,Verified
+1999,Clarendon,39,Self-Employed,2861892,Low,Verified
+2000,St. James,59,Self-Employed,4231543,Medium,Rejected
+2001,Manchester,48,Self-Employed,7763266,Medium,Verified
+2002,St. James,37,Self-Employed,4878140,Medium,Verified
+2003,St. Catherine,26,Unemployed,4396219,Low,Verified
+2004,Kingston,39,Self-Employed,6471614,High,Verified
+2005,Clarendon,58,Self-Employed,4265685,Low,Verified
+2006,Clarendon,48,Employed,896748,Low,Pending
+2007,Kingston,22,Unemployed,4709308,Medium,Pending
+2008,Kingston,58,Employed,2248598,Medium,Verified
+2009,St. Catherine,57,Employed,5623325,Low,Pending
+2010,St. James,24,Employed,1758395,Low,Verified
+2011,Clarendon,42,Unemployed,1715767,Medium,Verified
+2012,St. Catherine,46,Employed,1101364,Low,Pending
+2013,St. James,69,Employed,2127878,Low,Verified
+2014,St. Catherine,63,Employed,7958880,Medium,Verified
+2015,Clarendon,56,Self-Employed,3842244,Low,Verified
+2016,Kingston,33,Employed,7246716,Low,Rejected
+2017,Kingston,52,Unemployed,4169415,Low,Pending
+2018,St. James,37,Unemployed,3218126,High,Pending
+2019,Manchester,61,Self-Employed,2909571,High,Verified
+2020,St. James,56,Unemployed,4503713,Low,Pending
+2021,Manchester,66,Unemployed,4292804,Low,Verified
+2022,St. Catherine,39,Self-Employed,1181856,Low,Rejected
+2023,St. Catherine,55,Employed,4443512,Low,Verified
+2024,Clarendon,66,Self-Employed,4565444,Medium,Verified
+2025,Manchester,60,Employed,6706213,Medium,Verified
+2026,Clarendon,48,Employed,1563361,Low,Pending
+2027,Kingston,21,Unemployed,3508089,Low,Pending
+2028,Manchester,62,Self-Employed,5379097,Low,Verified
+2029,St. James,38,Unemployed,4816899,Low,Verified
+2030,Kingston,68,Unemployed,7940390,Low,Pending
+2031,Kingston,60,Employed,4108085,Medium,Verified
+2032,St. James,53,Unemployed,4755199,Medium,Pending
+2033,Kingston,32,Self-Employed,6042329,Medium,Rejected
+2034,Manchester,28,Unemployed,4798880,Low,Verified
+2035,Clarendon,44,Unemployed,4068896,Medium,Verified
+2036,Kingston,36,Employed,2461127,Low,Verified
+2037,Manchester,24,Self-Employed,5053459,Low,Verified
+2038,St. Catherine,58,Unemployed,6568084,Medium,Verified
+2039,Manchester,64,Employed,7936940,Low,Pending
+2040,Clarendon,47,Unemployed,5456630,Medium,Verified
+2041,Manchester,29,Self-Employed,3654135,Medium,Verified
+2042,St. James,67,Unemployed,7371390,High,Verified
+2043,Clarendon,36,Unemployed,1276377,High,Verified
+2044,St. Catherine,32,Employed,1198422,Low,Rejected
+2045,St. James,51,Unemployed,921937,High,Verified
+2046,Manchester,44,Employed,1933629,Medium,Verified
+2047,Clarendon,34,Self-Employed,1178355,Medium,Rejected
+2048,St. Catherine,65,Unemployed,2691369,Low,Verified
+2049,St. James,45,Self-Employed,4793611,High,Verified
+2050,St. Catherine,54,Self-Employed,2148416,Low,Verified
+2051,Manchester,23,Unemployed,3915848,High,Pending
+2052,St. Catherine,44,Employed,2475259,Low,Verified
+2053,Kingston,62,Self-Employed,1839474,Medium,Rejected
+2054,St. James,29,Self-Employed,2759129,Low,Pending
+2055,St. Catherine,46,Unemployed,7409001,Low,Verified
+2056,Manchester,40,Unemployed,1349391,Low,Verified
+2057,Manchester,60,Unemployed,1227479,Low,Verified
+2058,St. Catherine,30,Unemployed,6824945,Low,Verified
+2059,Manchester,39,Unemployed,6512717,Low,Pending
+2060,Clarendon,23,Unemployed,2160764,Medium,Verified
+2061,Clarendon,44,Employed,6624898,High,Verified
+2062,Clarendon,25,Self-Employed,3971553,Medium,Pending
+2063,Kingston,23,Employed,6774496,Low,Verified
+2064,St. Catherine,47,Employed,3394545,Low,Verified
+2065,Kingston,36,Unemployed,3982999,Low,Verified
+2066,Manchester,69,Self-Employed,1925832,High,Verified
+2067,Kingston,35,Employed,7829446,High,Rejected
+2068,Manchester,55,Unemployed,4047727,Low,Verified
+2069,Manchester,32,Unemployed,3653502,Low,Verified
+2070,St. James,61,Self-Employed,6590740,High,Verified
+2071,Clarendon,64,Employed,1362834,High,Verified
+2072,Manchester,46,Employed,1640597,High,Verified
+2073,St. James,67,Employed,1650122,High,Verified
+2074,Clarendon,54,Unemployed,5441184,Low,Rejected
+2075,Manchester,43,Self-Employed,3372703,Low,Pending
+2076,Manchester,51,Self-Employed,1530559,Low,Verified
+2077,Kingston,40,Employed,1321727,Low,Verified
+2078,Kingston,32,Unemployed,7128404,Low,Verified
+2079,Clarendon,43,Employed,2662015,Medium,Verified
+2080,Manchester,24,Self-Employed,6667987,Low,Verified
+2081,St. Catherine,43,Unemployed,3250503,Low,Verified
+2082,Kingston,68,Employed,2332713,Low,Verified
+2083,Clarendon,68,Employed,3760356,Low,Verified
+2084,Manchester,21,Unemployed,5540616,Low,Pending
+2085,Manchester,45,Self-Employed,6810648,High,Verified
+2086,St. Catherine,22,Unemployed,2805464,High,Pending
+2087,Clarendon,50,Employed,3676673,Low,Verified
+2088,Manchester,23,Employed,2082322,Medium,Verified
+2089,Kingston,41,Employed,5405677,Low,Pending
+2090,St. Catherine,45,Employed,4817641,Medium,Verified
+2091,Clarendon,40,Self-Employed,2343912,Low,Rejected
+2092,St. Catherine,69,Self-Employed,4296425,Low,Verified
+2093,Kingston,42,Employed,2505692,High,Verified
+2094,Clarendon,41,Self-Employed,1808507,Low,Verified
+2095,St. Catherine,53,Self-Employed,1426776,Low,Verified
+2096,St. James,58,Self-Employed,3518181,Low,Pending
+2097,Kingston,35,Employed,2561987,Low,Pending
+2098,Kingston,66,Unemployed,7323229,Low,Pending
+2099,Kingston,35,Unemployed,1782099,High,Verified
+2100,St. James,66,Unemployed,4286082,Medium,Verified
+2101,St. James,45,Employed,2350642,Medium,Verified
+2102,Manchester,41,Self-Employed,2591825,Low,Verified
+2103,St. Catherine,44,Self-Employed,3910041,Low,Rejected
+2104,Manchester,25,Employed,3294903,Low,Verified
+2105,St. Catherine,26,Employed,1316031,Low,Verified
+2106,St. James,69,Unemployed,847367,Medium,Verified
+2107,St. James,63,Unemployed,6805712,Low,Pending
+2108,Manchester,68,Employed,6495908,High,Rejected
+2109,Clarendon,64,Unemployed,2432748,Low,Verified
+2110,Manchester,67,Self-Employed,5662944,Low,Verified
+2111,St. Catherine,43,Employed,7499418,Low,Verified
+2112,Manchester,24,Employed,1164716,Low,Verified
+2113,Kingston,47,Self-Employed,3474691,Low,Rejected
+2114,St. Catherine,38,Self-Employed,6127701,Low,Verified
+2115,St. Catherine,41,Self-Employed,6650751,Low,Verified
+2116,Clarendon,48,Unemployed,1044697,Medium,Verified
+2117,St. James,55,Employed,6053087,Medium,Verified
+2118,St. Catherine,42,Unemployed,5720791,Low,Pending
+2119,St. James,60,Self-Employed,6070637,Low,Verified
+2120,Manchester,43,Unemployed,1254623,Medium,Verified
+2121,Kingston,23,Self-Employed,7911710,High,Rejected
+2122,Clarendon,60,Unemployed,2110646,Medium,Verified
+2123,St. James,30,Unemployed,841340,Low,Pending
+2124,St. Catherine,45,Self-Employed,7334411,Medium,Verified
+2125,St. James,69,Unemployed,1769738,Medium,Verified
+2126,St. Catherine,28,Employed,1692743,Low,Verified
+2127,St. James,31,Unemployed,2814751,High,Verified
+2128,St. Catherine,25,Unemployed,6642488,Low,Verified
+2129,Manchester,65,Employed,2213285,High,Verified
+2130,St. Catherine,57,Self-Employed,3940283,Medium,Verified
+2131,St. Catherine,65,Employed,3325525,Medium,Verified
+2132,Kingston,58,Unemployed,2130657,Medium,Verified
+2133,St. Catherine,49,Self-Employed,1764211,Low,Rejected
+2134,Kingston,25,Unemployed,6316243,Medium,Verified
+2135,Clarendon,29,Unemployed,6052279,High,Verified
+2136,Kingston,68,Employed,7742477,Medium,Pending
+2137,Manchester,22,Employed,7845664,High,Verified
+2138,Kingston,21,Self-Employed,1745161,High,Verified
+2139,Clarendon,60,Self-Employed,5800783,High,Verified
+2140,Manchester,50,Self-Employed,3128767,Medium,Verified
+2141,St. James,31,Unemployed,3507133,Medium,Verified
+2142,St. James,48,Employed,5619523,Low,Rejected
+2143,Kingston,64,Employed,3886810,Medium,Pending
+2144,Kingston,32,Employed,4645979,Low,Verified
+2145,Clarendon,59,Self-Employed,7229308,Low,Verified
+2146,Clarendon,46,Employed,3494991,Low,Verified
+2147,St. Catherine,33,Employed,7422266,High,Pending
+2148,Clarendon,28,Employed,2597555,High,Verified
+2149,St. Catherine,48,Self-Employed,853010,Medium,Verified
+2150,Manchester,50,Employed,6605333,Low,Verified
+2151,Kingston,29,Self-Employed,6316552,Medium,Verified
+2152,Manchester,59,Employed,1707272,Medium,Verified
+2153,Clarendon,51,Employed,5174984,Low,Verified
+2154,Manchester,41,Employed,3296282,Low,Pending
+2155,Manchester,67,Self-Employed,6604304,Low,Verified
+2156,Manchester,54,Self-Employed,4874411,Medium,Verified
+2157,Clarendon,51,Employed,6391032,Medium,Pending
+2158,Manchester,45,Unemployed,1336364,Low,Verified
+2159,St. Catherine,32,Self-Employed,6953223,High,Verified
+2160,Clarendon,21,Self-Employed,6723023,Low,Verified
+2161,Manchester,42,Employed,1703057,Low,Verified
+2162,Clarendon,60,Unemployed,2550652,Low,Verified
+2163,St. James,57,Employed,2423162,Low,Pending
+2164,St. Catherine,67,Self-Employed,4786464,Low,Rejected
+2165,Manchester,21,Self-Employed,5064139,Low,Verified
+2166,St. James,21,Employed,3419909,Medium,Verified
+2167,St. James,62,Employed,3533864,Low,Verified
+2168,Clarendon,62,Unemployed,1463478,Medium,Verified
+2169,St. James,41,Unemployed,4939524,Medium,Verified
+2170,St. Catherine,35,Self-Employed,2102970,Low,Verified
+2171,St. Catherine,37,Unemployed,3216207,Medium,Verified
+2172,Kingston,42,Unemployed,1790993,Low,Verified
+2173,St. Catherine,58,Self-Employed,7194544,High,Verified
+2174,St. James,55,Self-Employed,2388049,High,Verified
+2175,St. Catherine,65,Self-Employed,1759296,Low,Verified
+2176,Clarendon,36,Self-Employed,2613948,High,Rejected
+2177,Kingston,28,Employed,6207879,Medium,Verified
+2178,St. James,67,Self-Employed,1062530,High,Pending
+2179,Kingston,37,Self-Employed,4431097,Medium,Pending
+2180,St. James,37,Self-Employed,6508824,Low,Pending
+2181,Clarendon,46,Unemployed,2842361,High,Verified
+2182,Kingston,33,Self-Employed,1017767,Low,Rejected
+2183,Manchester,37,Employed,1909970,Low,Verified
+2184,St. James,58,Employed,4670033,Low,Verified
+2185,Manchester,37,Self-Employed,6682545,Low,Verified
+2186,Kingston,68,Employed,1446004,Medium,Verified
+2187,Manchester,34,Unemployed,987486,Medium,Verified
+2188,Manchester,65,Self-Employed,2428782,High,Verified
+2189,Kingston,26,Employed,4188284,Low,Verified
+2190,Clarendon,55,Employed,2226360,High,Verified
+2191,Manchester,66,Self-Employed,2533391,High,Verified
+2192,Manchester,34,Employed,1166590,Low,Verified
+2193,Clarendon,67,Self-Employed,894702,Low,Rejected
+2194,Manchester,28,Employed,3002661,High,Verified
+2195,Manchester,35,Unemployed,5350056,Medium,Verified
+2196,Manchester,47,Employed,1962886,Medium,Rejected
+2197,St. Catherine,33,Employed,4875341,Medium,Verified
+2198,Clarendon,69,Self-Employed,3729386,Low,Verified
+2199,Manchester,51,Employed,4669108,Low,Pending
+2200,Clarendon,55,Self-Employed,5553214,Medium,Rejected
+2201,St. James,26,Unemployed,7201391,Low,Verified
+2202,St. James,25,Self-Employed,7351896,Medium,Verified
+2203,Manchester,42,Self-Employed,4063647,High,Rejected
+2204,Clarendon,69,Employed,3817253,Medium,Verified
+2205,Clarendon,43,Unemployed,1758101,High,Verified
+2206,Clarendon,45,Self-Employed,5690618,Low,Verified
+2207,St. Catherine,54,Employed,869519,Medium,Verified
+2208,St. James,46,Employed,5705779,Medium,Pending
+2209,Clarendon,67,Self-Employed,1760655,High,Pending
+2210,Clarendon,25,Employed,1996688,Medium,Pending
+2211,St. Catherine,46,Self-Employed,2941924,Low,Verified
+2212,St. Catherine,40,Self-Employed,3019583,High,Verified
+2213,Clarendon,26,Self-Employed,3779674,Medium,Pending
+2214,Kingston,26,Unemployed,3092056,Low,Verified
+2215,Clarendon,38,Self-Employed,958988,Medium,Rejected
+2216,Clarendon,24,Employed,7922759,High,Pending
+2217,St. Catherine,37,Unemployed,3411895,Medium,Verified
+2218,St. Catherine,34,Employed,6855684,Low,Verified
+2219,Clarendon,34,Unemployed,2827787,High,Verified
+2220,Clarendon,33,Unemployed,5033384,Medium,Rejected
+2221,Clarendon,27,Unemployed,5100546,Medium,Verified
+2222,St. Catherine,64,Unemployed,5823458,Low,Pending
+2223,Clarendon,35,Employed,7605536,Low,Verified
+2224,Clarendon,39,Self-Employed,6652373,Medium,Verified
+2225,Manchester,63,Employed,1727281,High,Verified
+2226,Kingston,67,Self-Employed,5161707,Low,Verified
+2227,St. James,64,Employed,5250696,Low,Pending
+2228,Kingston,55,Unemployed,5015272,Low,Verified
+2229,Manchester,37,Unemployed,4180145,Medium,Verified
+2230,St. James,55,Self-Employed,6578460,Low,Pending
+2231,Clarendon,39,Self-Employed,3673382,Low,Verified
+2232,Manchester,40,Employed,3855450,Low,Verified
+2233,Clarendon,56,Self-Employed,2190179,Medium,Verified
+2234,St. Catherine,55,Employed,7928080,Low,Verified
+2235,Manchester,52,Self-Employed,6651361,Low,Verified
+2236,St. Catherine,68,Self-Employed,7684909,High,Pending
+2237,Manchester,64,Self-Employed,5848386,Low,Verified
+2238,Manchester,60,Unemployed,6536077,Low,Verified
+2239,St. Catherine,44,Unemployed,4571414,High,Verified
+2240,St. James,37,Employed,1546470,Low,Verified
+2241,Kingston,27,Self-Employed,2732893,Medium,Verified
+2242,Clarendon,63,Employed,5147633,Low,Verified
+2243,Manchester,21,Self-Employed,1949164,Medium,Pending
+2244,Clarendon,55,Unemployed,7868566,Low,Verified
+2245,St. Catherine,52,Unemployed,2372762,High,Verified
+2246,Clarendon,56,Self-Employed,2718517,Low,Verified
+2247,St. Catherine,33,Self-Employed,6789513,Low,Rejected
+2248,Clarendon,26,Unemployed,4259544,Medium,Verified
+2249,Kingston,34,Unemployed,3630095,High,Verified
+2250,Kingston,57,Employed,6555432,Low,Verified
+2251,Kingston,68,Unemployed,4229985,High,Verified
+2252,Kingston,35,Self-Employed,2111414,Low,Verified
+2253,Kingston,67,Employed,4985727,Medium,Pending
+2254,Kingston,24,Self-Employed,815588,Low,Verified
+2255,St. Catherine,60,Employed,3614268,Medium,Verified
+2256,Manchester,36,Self-Employed,1257301,Low,Verified
+2257,Clarendon,48,Unemployed,7858175,Low,Verified
+2258,Kingston,36,Self-Employed,7336912,Low,Verified
+2259,St. Catherine,24,Employed,4662230,Low,Pending
+2260,St. Catherine,65,Self-Employed,4010101,High,Rejected
+2261,St. Catherine,46,Employed,4817763,High,Pending
+2262,Manchester,48,Self-Employed,5525296,Medium,Rejected
+2263,Clarendon,52,Unemployed,6083016,Low,Verified
+2264,Manchester,65,Unemployed,847361,Low,Verified
+2265,St. James,22,Self-Employed,7936735,Medium,Verified
+2266,St. Catherine,51,Self-Employed,3039665,High,Verified
+2267,St. James,23,Self-Employed,4960244,Low,Pending
+2268,Kingston,28,Employed,5008981,High,Rejected
+2269,Kingston,44,Self-Employed,4759978,High,Pending
+2270,Manchester,35,Self-Employed,6650759,High,Verified
+2271,Clarendon,63,Employed,2758970,Low,Verified
+2272,St. James,51,Unemployed,6372288,Low,Verified
+2273,Clarendon,29,Self-Employed,6640336,Low,Verified
+2274,Manchester,59,Self-Employed,2515979,Medium,Verified
+2275,Kingston,65,Unemployed,7163395,Low,Verified
+2276,Clarendon,22,Unemployed,4223604,Low,Rejected
+2277,Clarendon,28,Employed,6884556,Medium,Pending
+2278,Kingston,27,Self-Employed,3308894,Low,Verified
+2279,St. James,64,Self-Employed,2644348,Low,Verified
+2280,Kingston,59,Employed,1559848,Medium,Verified
+2281,Clarendon,62,Unemployed,7900282,Medium,Verified
+2282,St. James,36,Employed,2209277,Medium,Pending
+2283,St. James,55,Unemployed,6178054,Low,Verified
+2284,Kingston,50,Employed,7586518,Medium,Verified
+2285,Clarendon,30,Unemployed,2392023,Medium,Verified
+2286,Manchester,58,Employed,922366,Low,Verified
+2287,Clarendon,38,Unemployed,3093316,Medium,Pending
+2288,St. Catherine,25,Unemployed,1592644,Low,Verified
+2289,Manchester,49,Unemployed,2339152,Low,Pending
+2290,St. James,59,Unemployed,1623837,Low,Verified
+2291,Manchester,54,Unemployed,1192776,Low,Pending
+2292,St. James,63,Self-Employed,6382085,Low,Verified
+2293,St. James,65,Unemployed,1156440,High,Verified
+2294,Manchester,43,Self-Employed,1641618,Low,Verified
+2295,St. James,25,Unemployed,1761743,High,Verified
+2296,St. James,50,Self-Employed,6791233,Medium,Pending
+2297,St. Catherine,26,Self-Employed,5529124,Low,Verified
+2298,Clarendon,66,Employed,3107278,Low,Pending
+2299,Clarendon,64,Unemployed,5983820,Medium,Verified
+2300,St. Catherine,24,Employed,1835340,Medium,Pending
+2301,Manchester,49,Employed,4162079,Low,Verified
+2302,Kingston,43,Unemployed,4274412,Low,Pending
+2303,Kingston,26,Employed,903021,Medium,Rejected
+2304,Kingston,52,Unemployed,7881159,Low,Verified
+2305,St. Catherine,62,Employed,2811562,High,Verified
+2306,St. Catherine,38,Unemployed,800209,Medium,Verified
+2307,St. James,35,Unemployed,1022071,Low,Verified
+2308,Kingston,60,Unemployed,4606627,Low,Verified
+2309,Manchester,52,Self-Employed,3703561,Low,Verified
+2310,Manchester,29,Employed,6248094,High,Pending
+2311,Kingston,57,Self-Employed,6152800,Low,Pending
+2312,Kingston,30,Employed,3258884,Low,Pending
+2313,Kingston,40,Employed,6373708,Medium,Verified
+2314,St. Catherine,26,Employed,6273024,Low,Pending
+2315,St. Catherine,68,Self-Employed,3807446,Low,Verified
+2316,St. Catherine,23,Employed,1016194,High,Verified
+2317,Clarendon,62,Self-Employed,3254082,Low,Verified
+2318,Manchester,31,Unemployed,3285702,High,Rejected
+2319,Manchester,63,Employed,7274467,High,Pending
+2320,St. James,37,Employed,7765410,Low,Verified
+2321,St. Catherine,52,Unemployed,4397326,Low,Pending
+2322,Clarendon,24,Unemployed,807399,Low,Verified
+2323,Clarendon,24,Employed,6557122,Medium,Pending
+2324,Manchester,37,Unemployed,5936925,Low,Verified
+2325,St. Catherine,61,Self-Employed,2995814,High,Verified
+2326,St. James,39,Self-Employed,4241489,Medium,Verified
+2327,St. Catherine,25,Employed,5657162,Low,Verified
+2328,Kingston,52,Self-Employed,6932138,Medium,Verified
+2329,St. Catherine,42,Self-Employed,5766896,Low,Verified
+2330,Kingston,26,Employed,7464677,High,Verified
+2331,Kingston,55,Unemployed,1834023,Medium,Pending
+2332,St. James,42,Employed,5790364,Low,Pending
+2333,Manchester,21,Self-Employed,1193545,Low,Verified
+2334,St. Catherine,40,Employed,1100763,High,Rejected
+2335,Kingston,42,Employed,1855608,Medium,Verified
+2336,St. Catherine,68,Self-Employed,4649182,High,Pending
+2337,Manchester,31,Self-Employed,4245906,Low,Verified
+2338,Manchester,33,Employed,7718402,Low,Verified
+2339,Clarendon,62,Self-Employed,5901859,Low,Verified
+2340,Manchester,23,Self-Employed,2364458,Medium,Pending
+2341,St. James,29,Self-Employed,2721166,Low,Verified
+2342,Kingston,32,Self-Employed,2466984,Low,Pending
+2343,Clarendon,43,Self-Employed,5042154,Medium,Verified
+2344,St. James,34,Self-Employed,2377586,Medium,Verified
+2345,St. Catherine,53,Unemployed,5274220,Low,Verified
+2346,Kingston,38,Employed,1148249,Low,Pending
+2347,Manchester,69,Self-Employed,5429199,Medium,Verified
+2348,Kingston,61,Employed,1786275,Low,Pending
+2349,St. Catherine,29,Unemployed,4998880,Low,Verified
+2350,Clarendon,43,Self-Employed,2210124,Low,Pending
+2351,Clarendon,30,Employed,3332000,Medium,Verified
+2352,Clarendon,39,Self-Employed,2414340,High,Verified
+2353,Manchester,67,Self-Employed,4194020,Low,Verified
+2354,St. James,25,Self-Employed,2272077,Low,Verified
+2355,St. James,67,Self-Employed,1610586,High,Verified
+2356,Kingston,43,Self-Employed,7105895,High,Rejected
+2357,Manchester,50,Self-Employed,2228931,Medium,Verified
+2358,Clarendon,45,Self-Employed,4514534,High,Verified
+2359,Clarendon,48,Unemployed,2399826,Medium,Verified
+2360,St. Catherine,54,Unemployed,7014318,Medium,Verified
+2361,St. Catherine,65,Self-Employed,3660597,Low,Verified
+2362,Clarendon,68,Self-Employed,2148483,Low,Verified
+2363,Clarendon,67,Unemployed,5110493,Low,Pending
+2364,Manchester,45,Unemployed,1958866,High,Verified
+2365,St. James,30,Unemployed,1781598,High,Pending
+2366,St. Catherine,34,Self-Employed,4842974,Medium,Verified
+2367,St. James,62,Employed,1605896,Low,Verified
+2368,Manchester,66,Employed,1759540,Low,Verified
+2369,Clarendon,50,Employed,3021132,Low,Pending
+2370,St. James,61,Employed,7318477,Low,Verified
+2371,Clarendon,45,Self-Employed,7780086,Medium,Pending
+2372,Clarendon,34,Employed,3988027,High,Verified
+2373,Kingston,55,Unemployed,1541165,Low,Pending
+2374,St. James,68,Unemployed,831541,Low,Verified
+2375,St. James,54,Employed,1275759,Medium,Verified
+2376,Clarendon,30,Unemployed,3644510,Low,Verified
+2377,Manchester,55,Self-Employed,5123492,High,Verified
+2378,Kingston,31,Employed,1008150,Low,Verified
+2379,Clarendon,31,Employed,3373338,Low,Verified
+2380,St. Catherine,41,Self-Employed,2658777,Low,Pending
+2381,St. Catherine,41,Unemployed,7310529,Low,Verified
+2382,Kingston,42,Self-Employed,1280620,Medium,Verified
+2383,Manchester,65,Self-Employed,5538748,Low,Verified
+2384,Clarendon,27,Unemployed,5735500,Low,Verified
+2385,St. James,37,Self-Employed,6486577,Low,Verified
+2386,Kingston,22,Unemployed,5663099,Low,Verified
+2387,Manchester,32,Unemployed,5719314,Low,Pending
+2388,St. James,62,Self-Employed,7793152,Medium,Verified
+2389,St. Catherine,38,Unemployed,6996519,Medium,Verified
+2390,St. Catherine,31,Self-Employed,1922207,High,Verified
+2391,St. James,36,Unemployed,1624341,Low,Verified
+2392,Kingston,69,Employed,3490927,Low,Verified
+2393,St. Catherine,38,Unemployed,3836124,Low,Verified
+2394,Clarendon,55,Unemployed,3382977,Low,Verified
+2395,St. James,46,Self-Employed,5304103,Medium,Verified
+2396,St. James,36,Unemployed,1227557,High,Rejected
+2397,St. Catherine,26,Employed,2615599,Medium,Verified
+2398,Kingston,64,Employed,7810998,Low,Verified
+2399,Clarendon,63,Unemployed,3997514,Low,Verified
+2400,Kingston,67,Unemployed,2965456,High,Verified
+2401,Manchester,67,Employed,1165750,Low,Pending
+2402,Manchester,68,Self-Employed,6688106,Low,Verified
+2403,St. Catherine,62,Employed,1284103,High,Verified
+2404,St. Catherine,32,Employed,2952259,Medium,Pending
+2405,St. Catherine,33,Unemployed,3419210,Medium,Verified
+2406,Manchester,24,Unemployed,4190919,Low,Rejected
+2407,Kingston,59,Employed,2505096,Low,Pending
+2408,Kingston,22,Self-Employed,7441497,Low,Verified
+2409,St. Catherine,46,Employed,7831119,Medium,Verified
+2410,Clarendon,47,Employed,7495518,Low,Verified
+2411,Kingston,47,Self-Employed,5255237,High,Verified
+2412,Manchester,35,Employed,6671348,High,Verified
+2413,St. James,28,Employed,3179220,Medium,Verified
+2414,St. James,27,Unemployed,4319065,Low,Rejected
+2415,St. James,67,Self-Employed,7760698,Low,Verified
+2416,Clarendon,66,Unemployed,2584210,Medium,Verified
+2417,St. Catherine,60,Unemployed,5998363,Medium,Verified
+2418,Manchester,32,Self-Employed,3263501,Medium,Pending
+2419,Clarendon,33,Self-Employed,2544919,Low,Verified
+2420,Manchester,63,Employed,1828719,Medium,Verified
+2421,Manchester,37,Unemployed,2386987,Medium,Pending
+2422,St. Catherine,37,Self-Employed,3619127,Low,Pending
+2423,St. James,56,Unemployed,7579865,Medium,Rejected
+2424,St. Catherine,41,Unemployed,5826014,Medium,Pending
+2425,Clarendon,28,Self-Employed,2732919,Low,Verified
+2426,Clarendon,25,Employed,7050674,Low,Verified
+2427,Clarendon,46,Unemployed,2949151,Medium,Verified
+2428,St. Catherine,36,Self-Employed,2666161,Low,Verified
+2429,Manchester,56,Employed,6798017,Medium,Verified
+2430,Manchester,48,Unemployed,6604824,Medium,Verified
+2431,Kingston,49,Self-Employed,7293043,High,Rejected
+2432,Clarendon,67,Unemployed,6827755,Medium,Verified
+2433,Manchester,32,Self-Employed,1063356,Low,Verified
+2434,Kingston,57,Self-Employed,7231529,Low,Verified
+2435,Manchester,50,Unemployed,1927360,High,Pending
+2436,Clarendon,43,Unemployed,7976611,Low,Verified
+2437,St. James,36,Self-Employed,1143288,Medium,Verified
+2438,Clarendon,34,Employed,2802507,Medium,Verified
+2439,St. Catherine,30,Unemployed,3452808,Low,Verified
+2440,Manchester,27,Self-Employed,4671907,Low,Verified
+2441,Manchester,65,Self-Employed,6104040,Medium,Rejected
+2442,St. Catherine,57,Employed,3578366,High,Rejected
+2443,St. Catherine,49,Employed,7364315,Low,Rejected
+2444,St. James,23,Employed,5577376,High,Verified
+2445,Manchester,35,Unemployed,3288489,Medium,Rejected
+2446,Manchester,56,Self-Employed,2210364,High,Rejected
+2447,St. James,67,Self-Employed,2158293,Low,Rejected
+2448,Kingston,66,Self-Employed,2711128,Low,Verified
+2449,St. James,39,Employed,4484796,High,Pending
+2450,Clarendon,33,Self-Employed,5556497,High,Verified
+2451,Manchester,62,Unemployed,5933381,Low,Pending
+2452,St. Catherine,41,Employed,4586065,Medium,Verified
+2453,Clarendon,57,Employed,5648243,High,Verified
+2454,Manchester,47,Employed,4503375,Low,Rejected
+2455,St. James,49,Employed,3225358,Medium,Verified
+2456,Clarendon,40,Unemployed,4543407,High,Verified
+2457,Manchester,45,Self-Employed,5093900,Low,Rejected
+2458,Kingston,26,Unemployed,4717430,Low,Rejected
+2459,Kingston,56,Self-Employed,3778602,Medium,Verified
+2460,St. Catherine,22,Unemployed,2651579,Low,Pending
+2461,Manchester,42,Employed,7057660,Low,Verified
+2462,Kingston,52,Employed,6040376,High,Verified
+2463,St. James,36,Unemployed,1474502,Medium,Verified
+2464,Manchester,38,Unemployed,7902992,High,Verified
+2465,St. James,25,Self-Employed,2905777,High,Verified
+2466,St. James,56,Unemployed,6344223,Low,Verified
+2467,Kingston,50,Unemployed,4328597,Low,Rejected
+2468,Manchester,65,Self-Employed,5403446,Low,Verified
+2469,Clarendon,39,Self-Employed,3190514,Low,Pending
+2470,Kingston,43,Self-Employed,6742712,Medium,Pending
+2471,Kingston,54,Unemployed,7445516,Medium,Verified
+2472,Manchester,33,Self-Employed,1971758,Low,Rejected
+2473,Manchester,63,Employed,4490582,Low,Pending
+2474,St. James,49,Employed,6076085,Low,Verified
+2475,Manchester,56,Employed,2926869,Medium,Verified
+2476,St. James,42,Unemployed,4651072,Low,Pending
+2477,Kingston,67,Employed,7985180,Low,Pending
+2478,St. Catherine,56,Unemployed,1742639,Medium,Pending
+2479,Clarendon,29,Unemployed,1791993,Low,Verified
+2480,Kingston,59,Employed,6343586,Low,Verified
+2481,Manchester,39,Self-Employed,2310902,Medium,Verified
+2482,Clarendon,58,Unemployed,7111625,Low,Verified
+2483,St. Catherine,26,Employed,5971666,Medium,Verified
+2484,St. Catherine,67,Unemployed,7899492,Low,Verified
+2485,St. James,35,Self-Employed,3248966,Low,Verified
+2486,Clarendon,40,Self-Employed,7468205,Low,Pending
+2487,St. James,29,Employed,4296610,High,Verified
+2488,Kingston,52,Unemployed,3549580,Medium,Verified
+2489,Clarendon,24,Unemployed,5096841,High,Pending
+2490,Kingston,38,Unemployed,2619201,Medium,Rejected
+2491,St. James,25,Unemployed,7727045,Medium,Verified
+2492,Clarendon,40,Employed,7361607,Low,Verified
+2493,St. James,43,Self-Employed,5895651,Low,Rejected
+2494,Clarendon,31,Employed,2080280,Low,Verified
+2495,St. James,57,Unemployed,6346811,Low,Pending
+2496,St. Catherine,42,Unemployed,7927470,Low,Verified
+2497,St. James,24,Self-Employed,6773031,Low,Verified
+2498,St. Catherine,49,Unemployed,3650310,Low,Verified
+2499,St. James,64,Employed,4815789,Low,Verified
+2500,Clarendon,54,Employed,5786518,Low,Verified
+2501,Clarendon,33,Self-Employed,1391058,Medium,Verified
+2502,Clarendon,62,Employed,4527661,High,Rejected
+2503,Manchester,29,Employed,2476373,Low,Verified
+2504,Kingston,62,Employed,2079372,Low,Verified
+2505,Clarendon,51,Employed,4895228,Low,Pending
+2506,St. Catherine,27,Unemployed,5809940,High,Verified
+2507,Clarendon,24,Employed,6584320,Low,Pending
+2508,Manchester,39,Self-Employed,6567034,Medium,Rejected
+2509,St. Catherine,62,Self-Employed,1248402,Low,Verified
+2510,Manchester,50,Employed,3249851,Low,Verified
+2511,St. Catherine,51,Self-Employed,7307552,Low,Rejected
+2512,St. James,55,Employed,5752323,Low,Verified
+2513,Kingston,41,Self-Employed,1081833,High,Verified
+2514,Kingston,51,Self-Employed,2335834,Low,Rejected
+2515,Manchester,39,Employed,3242547,Medium,Pending
+2516,Kingston,51,Employed,2036968,Medium,Rejected
+2517,Manchester,52,Unemployed,3878882,Medium,Verified
+2518,Manchester,22,Employed,2560027,Low,Verified
+2519,Manchester,30,Employed,6411589,Low,Verified
+2520,Kingston,22,Unemployed,2321093,Low,Verified
+2521,Manchester,22,Employed,2788022,Low,Verified
+2522,Kingston,44,Employed,6081592,Medium,Verified
+2523,Manchester,37,Unemployed,5775979,Low,Verified
+2524,Clarendon,52,Employed,5230806,Medium,Verified
+2525,Manchester,36,Employed,3852687,Low,Verified
+2526,St. Catherine,36,Unemployed,822551,High,Verified
+2527,Manchester,66,Unemployed,3993796,Low,Rejected
+2528,St. James,59,Self-Employed,893608,Low,Verified
+2529,Manchester,51,Employed,3457001,High,Pending
+2530,St. Catherine,63,Self-Employed,4079692,Low,Pending
+2531,St. Catherine,44,Self-Employed,1086539,High,Verified
+2532,Kingston,21,Unemployed,2391620,Low,Verified
+2533,Clarendon,31,Employed,7339108,Low,Verified
+2534,Manchester,41,Employed,2853790,Medium,Pending
+2535,Kingston,24,Unemployed,3849307,High,Verified
+2536,Clarendon,27,Self-Employed,7342683,Low,Pending
+2537,Manchester,46,Unemployed,5322781,High,Rejected
+2538,St. James,67,Employed,3364113,Medium,Rejected
+2539,Manchester,32,Unemployed,5494059,High,Verified
+2540,St. Catherine,51,Employed,3601818,Low,Pending
+2541,St. Catherine,37,Self-Employed,6719586,Low,Rejected
+2542,St. James,53,Employed,4845721,High,Verified
+2543,Kingston,31,Self-Employed,2663032,High,Verified
+2544,Clarendon,48,Self-Employed,5744614,Low,Verified
+2545,Manchester,52,Employed,3889809,Low,Verified
+2546,St. Catherine,21,Employed,3024344,Low,Pending
+2547,Kingston,67,Self-Employed,6824759,Medium,Verified
+2548,St. James,48,Unemployed,5874974,Low,Pending
+2549,St. Catherine,62,Employed,2178148,Low,Pending
+2550,St. James,27,Self-Employed,3844410,Low,Verified
+2551,Manchester,22,Self-Employed,7416955,Medium,Verified
+2552,Clarendon,62,Unemployed,6494337,Low,Verified
+2553,St. Catherine,44,Employed,5456480,Low,Pending
+2554,St. Catherine,24,Self-Employed,4862118,Medium,Verified
+2555,Manchester,64,Unemployed,7874236,Medium,Verified
+2556,Kingston,39,Self-Employed,1038826,Low,Verified
+2557,Clarendon,46,Employed,2517354,Low,Rejected
+2558,St. Catherine,31,Unemployed,1550782,Medium,Rejected
+2559,Clarendon,60,Self-Employed,4701407,High,Verified
+2560,St. Catherine,63,Unemployed,1281809,Medium,Verified
+2561,Clarendon,31,Employed,2034832,High,Pending
+2562,St. James,65,Unemployed,2618182,Medium,Verified
+2563,St. Catherine,23,Employed,5167209,Medium,Verified
+2564,Clarendon,32,Self-Employed,1193781,Low,Verified
+2565,Kingston,23,Employed,2806260,Low,Verified
+2566,St. James,62,Self-Employed,6061282,Low,Verified
+2567,St. James,47,Self-Employed,6216797,Low,Verified
+2568,Kingston,69,Employed,3958562,Medium,Verified
+2569,Clarendon,22,Self-Employed,3489290,Low,Verified
+2570,Manchester,69,Unemployed,837180,Medium,Verified
+2571,Kingston,36,Self-Employed,6439979,Low,Verified
+2572,Clarendon,22,Employed,1433976,Low,Verified
+2573,Kingston,50,Unemployed,6411544,High,Verified
+2574,Kingston,40,Unemployed,4743855,Low,Rejected
+2575,St. Catherine,58,Self-Employed,6170015,Low,Verified
+2576,Clarendon,48,Self-Employed,3051347,Low,Pending
+2577,Manchester,45,Employed,6625649,High,Verified
+2578,St. Catherine,52,Unemployed,5592030,Low,Verified
+2579,Kingston,30,Employed,5630083,Medium,Verified
+2580,Kingston,62,Self-Employed,3419893,Low,Verified
+2581,Kingston,60,Unemployed,7502245,Medium,Pending
+2582,Clarendon,53,Employed,4591860,Low,Verified
+2583,Clarendon,33,Employed,1157054,Medium,Verified
+2584,St. Catherine,61,Employed,3302656,High,Pending
+2585,Manchester,62,Employed,2681986,Medium,Verified
+2586,St. Catherine,67,Employed,1789924,Medium,Verified
+2587,St. James,57,Unemployed,7471445,Medium,Verified
+2588,Kingston,36,Employed,2765629,Medium,Verified
+2589,Kingston,65,Unemployed,3628607,Low,Verified
+2590,Kingston,42,Employed,1903248,Medium,Verified
+2591,St. Catherine,40,Self-Employed,2434685,Low,Verified
+2592,St. Catherine,63,Self-Employed,5063528,Low,Verified
+2593,Kingston,47,Employed,1829922,Low,Pending
+2594,St. Catherine,61,Self-Employed,1034745,Low,Pending
+2595,Clarendon,36,Unemployed,7146252,Low,Rejected
+2596,Clarendon,54,Employed,4383650,Medium,Rejected
+2597,St. Catherine,52,Unemployed,4598570,Low,Rejected
+2598,Kingston,46,Employed,3163319,Low,Pending
+2599,St. Catherine,45,Self-Employed,2618222,Medium,Verified
+2600,St. Catherine,22,Unemployed,3635148,Low,Verified
+2601,St. Catherine,32,Self-Employed,6210687,Medium,Verified
+2602,St. James,60,Self-Employed,1363506,Medium,Verified
+2603,Clarendon,29,Employed,5924021,High,Pending
+2604,Manchester,32,Unemployed,1315729,Medium,Verified
+2605,Manchester,46,Self-Employed,6272646,Low,Verified
+2606,St. James,29,Employed,3712044,Low,Verified
+2607,St. Catherine,30,Employed,5845416,Low,Verified
+2608,St. James,52,Employed,2883805,High,Verified
+2609,St. James,54,Self-Employed,6073897,Low,Verified
+2610,Kingston,68,Employed,3913192,Low,Verified
+2611,Clarendon,40,Unemployed,1154182,Low,Verified
+2612,Manchester,59,Unemployed,5942798,High,Verified
+2613,St. Catherine,22,Self-Employed,3440955,Low,Verified
+2614,Manchester,21,Unemployed,4368935,High,Pending
+2615,Manchester,56,Employed,3298002,Low,Verified
+2616,Clarendon,44,Self-Employed,7299562,Low,Verified
+2617,Manchester,47,Employed,2842532,Low,Rejected
+2618,Manchester,22,Self-Employed,5941185,High,Verified
+2619,St. James,51,Self-Employed,3716585,High,Verified
+2620,Clarendon,34,Employed,2374255,Low,Verified
+2621,Kingston,22,Unemployed,7812022,Low,Pending
+2622,St. Catherine,49,Unemployed,4579404,Medium,Verified
+2623,Manchester,35,Self-Employed,6347239,Low,Verified
+2624,St. Catherine,32,Employed,7695464,Low,Pending
+2625,Kingston,57,Employed,5283562,Low,Verified
+2626,St. Catherine,48,Self-Employed,6710122,Low,Pending
+2627,Kingston,40,Unemployed,5893878,Low,Verified
+2628,St. James,59,Employed,3569785,Low,Verified
+2629,Manchester,44,Unemployed,4314078,Low,Pending
+2630,Kingston,41,Unemployed,4515663,High,Verified
+2631,St. Catherine,30,Self-Employed,4421609,Low,Pending
+2632,Manchester,66,Self-Employed,6763132,Medium,Rejected
+2633,St. James,34,Unemployed,3464119,Low,Verified
+2634,Manchester,57,Employed,2111147,Medium,Rejected
+2635,Kingston,38,Employed,7682011,Low,Verified
+2636,St. James,44,Self-Employed,2897951,Medium,Pending
+2637,St. Catherine,34,Unemployed,6360683,Low,Verified
+2638,St. James,54,Employed,2336201,High,Verified
+2639,St. James,32,Employed,2379889,Low,Verified
+2640,Clarendon,42,Self-Employed,1338769,Low,Verified
+2641,St. James,26,Unemployed,1087555,High,Verified
+2642,St. James,56,Employed,2600830,Medium,Rejected
+2643,Manchester,65,Self-Employed,4575944,Low,Pending
+2644,St. Catherine,56,Employed,3544454,High,Verified
+2645,Manchester,42,Employed,1208177,Low,Verified
+2646,Manchester,34,Employed,6457863,Low,Pending
+2647,Kingston,36,Self-Employed,5508415,High,Verified
+2648,Manchester,56,Unemployed,3997418,Low,Verified
+2649,Clarendon,45,Self-Employed,5571462,High,Verified
+2650,Clarendon,52,Unemployed,3921192,Low,Verified
+2651,Kingston,53,Employed,3588647,Medium,Verified
+2652,St. Catherine,65,Unemployed,7024898,Medium,Pending
+2653,St. Catherine,56,Employed,7178384,High,Verified
+2654,Manchester,40,Employed,2370497,Medium,Verified
+2655,Manchester,38,Self-Employed,1534158,Low,Rejected
+2656,Manchester,58,Employed,3492205,Medium,Verified
+2657,St. Catherine,23,Self-Employed,6959729,Low,Verified
+2658,St. James,43,Unemployed,1605231,Medium,Verified
+2659,Clarendon,52,Unemployed,2222771,High,Verified
+2660,St. James,65,Employed,7745685,Low,Verified
+2661,St. James,36,Self-Employed,3969283,Medium,Verified
+2662,St. Catherine,25,Employed,6440357,Low,Verified
+2663,St. James,24,Self-Employed,3279129,Low,Verified
+2664,Kingston,41,Self-Employed,1655434,Low,Verified
+2665,Manchester,60,Self-Employed,1108697,Medium,Pending
+2666,Kingston,34,Unemployed,4210960,Low,Verified
+2667,Clarendon,59,Self-Employed,4515799,Medium,Verified
+2668,Manchester,51,Unemployed,5519707,Low,Rejected
+2669,St. James,34,Self-Employed,5717790,Medium,Verified
+2670,Clarendon,26,Unemployed,872908,Low,Verified
+2671,Manchester,32,Unemployed,2441973,High,Verified
+2672,St. James,36,Unemployed,6832290,Low,Pending
+2673,Kingston,37,Employed,5365391,Medium,Verified
+2674,Manchester,65,Self-Employed,5003726,Low,Verified
+2675,St. James,43,Employed,7266154,Medium,Verified
+2676,Kingston,34,Self-Employed,7704977,Low,Verified
+2677,Clarendon,27,Self-Employed,1642606,Medium,Pending
+2678,Clarendon,66,Employed,6532452,Low,Verified
+2679,Clarendon,52,Unemployed,4671549,Medium,Verified
+2680,Clarendon,35,Self-Employed,1250415,Low,Rejected
+2681,St. Catherine,64,Unemployed,6435312,Low,Verified
+2682,Manchester,37,Employed,7744744,Low,Verified
+2683,Manchester,61,Unemployed,4499446,Low,Verified
+2684,St. Catherine,67,Self-Employed,5023138,Low,Pending
+2685,St. James,64,Self-Employed,1348723,High,Pending
+2686,St. James,54,Self-Employed,4032940,High,Rejected
+2687,Clarendon,25,Employed,2428661,Medium,Verified
+2688,Kingston,65,Self-Employed,3333922,Low,Verified
+2689,St. James,47,Employed,5573147,Low,Verified
+2690,Kingston,43,Unemployed,885350,Medium,Pending
+2691,Manchester,60,Self-Employed,5009020,Low,Verified
+2692,Kingston,34,Self-Employed,1908837,High,Verified
+2693,Manchester,35,Self-Employed,1745032,Low,Pending
+2694,St. Catherine,63,Unemployed,3685579,High,Verified
+2695,St. Catherine,53,Self-Employed,6712084,Low,Verified
+2696,Clarendon,51,Employed,1492019,Medium,Pending
+2697,St. James,55,Unemployed,4444393,Low,Verified
+2698,Clarendon,37,Unemployed,2240352,High,Verified
+2699,Manchester,48,Unemployed,2709042,Low,Verified
+2700,Clarendon,39,Unemployed,2677330,Medium,Verified
+2701,Kingston,66,Unemployed,7421238,High,Verified
+2702,Manchester,43,Employed,5882070,Low,Verified
+2703,St. Catherine,52,Unemployed,2512460,Low,Verified
+2704,St. James,60,Self-Employed,1355134,Low,Rejected
+2705,Manchester,33,Unemployed,5854379,Low,Verified
+2706,Manchester,40,Unemployed,4947036,Low,Verified
+2707,Kingston,55,Unemployed,7008087,Low,Verified
+2708,St. James,25,Unemployed,6329423,Low,Pending
+2709,St. Catherine,29,Unemployed,5724824,Medium,Verified
+2710,Manchester,49,Employed,3120886,Medium,Pending
+2711,Manchester,26,Employed,1848278,Low,Pending
+2712,Kingston,45,Unemployed,7835483,High,Rejected
+2713,Clarendon,51,Employed,923182,High,Pending
+2714,St. Catherine,42,Self-Employed,5042895,Medium,Verified
+2715,St. James,22,Unemployed,6017975,Low,Pending
+2716,Manchester,65,Self-Employed,4243749,Low,Rejected
+2717,Manchester,25,Self-Employed,884106,Medium,Rejected
+2718,St. Catherine,47,Unemployed,2450882,Medium,Verified
+2719,Clarendon,45,Self-Employed,3259150,Low,Verified
+2720,Manchester,28,Self-Employed,2825216,Medium,Verified
+2721,St. Catherine,21,Self-Employed,964486,Low,Verified
+2722,Kingston,40,Unemployed,2493696,Low,Pending
+2723,Clarendon,64,Unemployed,7702320,Medium,Rejected
+2724,St. James,43,Self-Employed,3631455,Medium,Verified
+2725,Manchester,52,Unemployed,6821832,Low,Pending
+2726,St. Catherine,31,Unemployed,4646556,Medium,Verified
+2727,Kingston,59,Self-Employed,7059225,High,Verified
+2728,St. James,67,Unemployed,1535062,Medium,Verified
+2729,St. Catherine,44,Employed,1527468,Medium,Verified
+2730,St. Catherine,31,Unemployed,2864618,Low,Pending
+2731,St. James,49,Employed,5086812,Low,Verified
+2732,Kingston,46,Self-Employed,4254707,Low,Verified
+2733,Kingston,36,Unemployed,3615845,Medium,Verified
+2734,Clarendon,55,Self-Employed,6609632,Medium,Verified
+2735,Manchester,40,Self-Employed,3796038,Low,Rejected
+2736,St. James,66,Self-Employed,5672587,Low,Verified
+2737,St. James,23,Self-Employed,6158942,Low,Verified
+2738,St. James,21,Self-Employed,3876511,Low,Pending
+2739,Kingston,67,Unemployed,2702453,High,Verified
+2740,Manchester,21,Employed,7084179,Medium,Pending
+2741,Clarendon,37,Unemployed,7464054,Low,Verified
+2742,St. Catherine,22,Unemployed,4854066,Medium,Verified
+2743,St. Catherine,49,Unemployed,7714128,Medium,Rejected
+2744,St. James,40,Unemployed,4668707,Medium,Pending
+2745,Manchester,26,Employed,3598658,Low,Verified
+2746,Kingston,28,Unemployed,2224241,Low,Verified
+2747,Manchester,49,Self-Employed,1702810,Low,Rejected
+2748,Manchester,68,Unemployed,7632884,High,Verified
+2749,Kingston,53,Unemployed,5259118,Medium,Verified
+2750,St. James,23,Employed,6341543,Medium,Verified
+2751,Manchester,55,Employed,4514528,Low,Verified
+2752,St. Catherine,25,Self-Employed,5969619,Low,Verified
+2753,Kingston,47,Unemployed,7195021,Low,Pending
+2754,Clarendon,64,Unemployed,7761507,High,Verified
+2755,St. James,32,Unemployed,7983044,Low,Pending
+2756,Kingston,40,Self-Employed,5180268,Low,Verified
+2757,Clarendon,65,Employed,4495611,High,Verified
+2758,Clarendon,40,Self-Employed,6231159,Medium,Verified
+2759,Manchester,29,Unemployed,1846094,Medium,Verified
+2760,Manchester,59,Employed,4192389,Low,Verified
+2761,Manchester,24,Employed,4216502,Medium,Verified
+2762,Kingston,39,Self-Employed,6282524,Low,Pending
+2763,Kingston,58,Employed,1554108,Medium,Verified
+2764,St. James,47,Employed,1532878,Low,Verified
+2765,Manchester,65,Unemployed,4019919,Low,Rejected
+2766,Clarendon,63,Unemployed,7025175,Medium,Rejected
+2767,St. Catherine,33,Employed,1801622,Medium,Verified
+2768,St. James,33,Employed,4046319,Medium,Verified
+2769,Kingston,42,Self-Employed,2436617,Low,Pending
+2770,St. James,48,Self-Employed,6546357,Low,Pending
+2771,St. James,67,Employed,4530536,Medium,Verified
+2772,St. James,65,Unemployed,3163304,Medium,Verified
+2773,St. James,42,Employed,3266704,High,Pending
+2774,St. Catherine,63,Employed,3159792,Medium,Rejected
+2775,Manchester,39,Unemployed,1161911,Low,Pending
+2776,Clarendon,28,Unemployed,1846251,High,Verified
+2777,St. James,28,Self-Employed,1085356,Low,Verified
+2778,St. James,62,Self-Employed,7923115,Low,Verified
+2779,St. James,46,Self-Employed,2324205,Low,Verified
+2780,Manchester,68,Self-Employed,3803337,Low,Verified
+2781,Kingston,46,Unemployed,1968694,Medium,Verified
+2782,Kingston,43,Employed,6781586,Medium,Verified
+2783,St. Catherine,63,Self-Employed,7363484,Medium,Verified
+2784,Kingston,33,Self-Employed,916481,Low,Pending
+2785,St. James,48,Unemployed,5062563,Low,Pending
+2786,St. James,29,Unemployed,7141266,Low,Rejected
+2787,St. James,40,Employed,4075654,Medium,Pending
+2788,St. Catherine,39,Employed,4474777,Low,Verified
+2789,St. James,68,Unemployed,7033550,High,Verified
+2790,Kingston,59,Self-Employed,2913527,Low,Verified
+2791,Manchester,32,Self-Employed,7329573,Low,Verified
+2792,Manchester,35,Self-Employed,5937026,Medium,Rejected
+2793,Clarendon,51,Employed,2010213,High,Verified
+2794,Kingston,34,Self-Employed,2999806,Low,Verified
+2795,St. James,31,Self-Employed,7910863,Medium,Verified
+2796,Manchester,46,Unemployed,6725313,High,Verified
+2797,Kingston,62,Self-Employed,5195102,High,Verified
+2798,Manchester,47,Unemployed,7224411,Medium,Verified
+2799,St. James,31,Self-Employed,7165945,Medium,Verified
+2800,Manchester,58,Employed,7624125,Low,Verified
+2801,Clarendon,54,Self-Employed,3042019,High,Rejected
+2802,Clarendon,63,Self-Employed,2862044,Low,Verified
+2803,Manchester,39,Unemployed,7154455,High,Verified
+2804,Kingston,26,Unemployed,1112051,Low,Verified
+2805,Kingston,66,Unemployed,6970022,Low,Verified
+2806,Kingston,58,Self-Employed,7948355,Medium,Verified
+2807,Manchester,69,Self-Employed,6871935,Low,Verified
+2808,Kingston,62,Employed,3591004,Low,Pending
+2809,St. James,48,Self-Employed,7511083,Medium,Pending
+2810,Clarendon,21,Employed,7988612,Medium,Verified
+2811,St. James,55,Unemployed,4097334,Medium,Verified
+2812,Kingston,60,Unemployed,7062748,Low,Verified
+2813,St. James,28,Unemployed,4368125,Medium,Verified
+2814,Kingston,67,Employed,7456669,Low,Verified
+2815,Manchester,27,Self-Employed,3441436,Low,Verified
+2816,St. James,31,Unemployed,2576025,Medium,Verified
+2817,Manchester,59,Self-Employed,1954258,High,Pending
+2818,Manchester,24,Self-Employed,3242905,Low,Pending
+2819,St. Catherine,45,Unemployed,7600676,Medium,Pending
+2820,Kingston,32,Employed,1790170,Low,Verified
+2821,Clarendon,46,Self-Employed,2533341,Low,Verified
+2822,Kingston,58,Unemployed,2212210,Low,Verified
+2823,Clarendon,66,Self-Employed,6825140,High,Verified
+2824,Kingston,32,Self-Employed,7162781,High,Verified
+2825,Manchester,63,Self-Employed,6596098,Medium,Verified
+2826,St. James,57,Self-Employed,7468026,Medium,Verified
+2827,St. James,66,Self-Employed,3963257,Medium,Pending
+2828,St. Catherine,44,Employed,3474986,Low,Pending
+2829,Clarendon,36,Employed,4215814,Low,Verified
+2830,Clarendon,33,Unemployed,6836860,Low,Verified
+2831,Clarendon,45,Employed,2750256,Medium,Verified
+2832,Manchester,24,Employed,3603528,High,Verified
+2833,Clarendon,31,Employed,7713524,Low,Verified
+2834,St. James,52,Self-Employed,4208168,Low,Pending
+2835,Manchester,69,Self-Employed,6110825,Low,Verified
+2836,Kingston,27,Unemployed,5054284,High,Verified
+2837,Clarendon,66,Unemployed,1643214,Low,Verified
+2838,Clarendon,31,Unemployed,965301,Low,Verified
+2839,Kingston,48,Self-Employed,5614974,Medium,Verified
+2840,Clarendon,61,Employed,1902020,Medium,Pending
+2841,Kingston,43,Employed,1097180,Low,Verified
+2842,Manchester,65,Self-Employed,4205914,Low,Verified
+2843,St. James,43,Unemployed,4977927,Medium,Rejected
+2844,Kingston,48,Unemployed,5676831,Low,Verified
+2845,St. Catherine,63,Unemployed,5832403,High,Verified
+2846,Kingston,67,Self-Employed,2467391,Medium,Verified
+2847,Clarendon,46,Unemployed,4029065,Low,Pending
+2848,Manchester,45,Unemployed,4259340,Low,Verified
+2849,Manchester,49,Self-Employed,4018622,Low,Verified
+2850,Kingston,39,Employed,5440604,Low,Rejected
+2851,St. James,53,Self-Employed,1387426,High,Pending
+2852,St. Catherine,56,Self-Employed,4230460,High,Verified
+2853,Manchester,34,Self-Employed,5843637,Low,Pending
+2854,Clarendon,34,Self-Employed,7502343,Low,Verified
+2855,Clarendon,55,Employed,3940380,Low,Verified
+2856,St. James,50,Unemployed,1931614,Low,Verified
+2857,Manchester,48,Self-Employed,2856744,Medium,Verified
+2858,Kingston,37,Employed,6467741,Low,Verified
+2859,Clarendon,23,Unemployed,5912468,High,Pending
+2860,St. James,36,Unemployed,3266507,Low,Verified
+2861,Manchester,66,Unemployed,5787658,Medium,Verified
+2862,Manchester,50,Self-Employed,2466561,High,Verified
+2863,Manchester,49,Self-Employed,6218673,Low,Rejected
+2864,Manchester,65,Unemployed,7541928,Low,Pending
+2865,Manchester,35,Unemployed,1576385,Low,Verified
+2866,Clarendon,66,Unemployed,7995105,Low,Rejected
+2867,St. James,45,Unemployed,2704514,High,Verified
+2868,Manchester,58,Unemployed,3097167,High,Verified
+2869,St. Catherine,62,Unemployed,1876419,High,Pending
+2870,St. Catherine,67,Employed,6707286,High,Verified
+2871,St. James,58,Unemployed,1806840,Low,Rejected
+2872,Kingston,43,Self-Employed,1781489,High,Verified
+2873,Kingston,45,Self-Employed,4943315,High,Verified
+2874,Kingston,62,Self-Employed,5359512,Low,Pending
+2875,St. Catherine,27,Unemployed,7319453,Low,Pending
+2876,Kingston,42,Self-Employed,4072145,Medium,Verified
+2877,Clarendon,37,Employed,7646090,Low,Verified
+2878,Manchester,38,Unemployed,1019356,Low,Pending
+2879,St. Catherine,69,Self-Employed,4331024,High,Verified
+2880,St. James,61,Employed,3795353,High,Rejected
+2881,St. James,30,Employed,2475255,Low,Pending
+2882,Manchester,30,Self-Employed,1284600,Low,Verified
+2883,St. Catherine,27,Employed,2295318,High,Verified
+2884,Kingston,68,Self-Employed,2708151,Medium,Verified
+2885,Kingston,58,Employed,3717167,Low,Verified
+2886,Clarendon,47,Unemployed,4089363,Medium,Pending
+2887,Clarendon,53,Unemployed,7268588,High,Rejected
+2888,Kingston,21,Unemployed,3157761,High,Verified
+2889,St. James,64,Unemployed,1446231,Low,Verified
+2890,St. James,54,Unemployed,1569822,Low,Verified
+2891,Clarendon,24,Self-Employed,3586202,High,Verified
+2892,Manchester,37,Unemployed,7317240,Low,Verified
+2893,Kingston,24,Unemployed,5009229,Medium,Verified
+2894,Clarendon,63,Unemployed,4687875,Low,Verified
+2895,Clarendon,46,Unemployed,6126064,Low,Pending
+2896,Kingston,24,Employed,2449379,Low,Verified
+2897,Kingston,21,Unemployed,3096482,Low,Pending
+2898,St. James,27,Unemployed,3557867,High,Pending
+2899,Manchester,50,Self-Employed,6351093,Low,Verified
+2900,Manchester,29,Employed,5743999,High,Verified
+2901,Kingston,55,Self-Employed,4046582,High,Verified
+2902,St. Catherine,28,Unemployed,7932359,Low,Verified
+2903,Clarendon,44,Self-Employed,3192001,Medium,Pending
+2904,Clarendon,39,Self-Employed,3072133,Low,Verified
+2905,Kingston,56,Unemployed,3116830,Medium,Verified
+2906,St. Catherine,63,Employed,3025653,Medium,Verified
+2907,St. James,47,Employed,6159241,Low,Pending
+2908,Kingston,52,Self-Employed,2033387,Low,Verified
+2909,Kingston,34,Unemployed,7299348,Medium,Verified
+2910,Clarendon,38,Self-Employed,5605865,High,Verified
+2911,Kingston,48,Self-Employed,850818,Low,Pending
+2912,Kingston,49,Self-Employed,3049119,Medium,Verified
+2913,Kingston,36,Unemployed,3251603,Low,Verified
+2914,Clarendon,55,Unemployed,6236361,High,Verified
+2915,St. James,67,Employed,2297116,Low,Verified
+2916,St. James,51,Unemployed,6371944,Medium,Verified
+2917,Kingston,24,Self-Employed,7538227,Low,Verified
+2918,Clarendon,57,Self-Employed,5112946,Medium,Verified
+2919,St. James,37,Employed,3706273,High,Verified
+2920,St. James,59,Unemployed,995428,Medium,Verified
+2921,St. James,68,Self-Employed,4694099,Medium,Verified
+2922,Clarendon,66,Employed,5395772,Medium,Verified
+2923,Clarendon,46,Employed,5811580,High,Verified
+2924,Kingston,68,Self-Employed,5089991,Medium,Rejected
+2925,Manchester,59,Self-Employed,6541638,High,Verified
+2926,St. James,61,Unemployed,6852677,Medium,Verified
+2927,Manchester,24,Employed,4607114,Medium,Verified
+2928,Clarendon,50,Self-Employed,7382123,Low,Verified
+2929,Clarendon,50,Employed,7605969,Medium,Verified
+2930,Clarendon,42,Unemployed,6184434,Low,Verified
+2931,Manchester,31,Self-Employed,7203561,High,Rejected
+2932,Clarendon,22,Unemployed,4781048,Medium,Pending
+2933,Kingston,64,Employed,6674136,High,Pending
+2934,Clarendon,32,Unemployed,6879422,Low,Rejected
+2935,St. Catherine,50,Unemployed,6788884,Low,Rejected
+2936,Manchester,56,Employed,6436589,High,Pending
+2937,St. Catherine,38,Unemployed,7131223,Low,Verified
+2938,Clarendon,46,Employed,7645294,Low,Verified
+2939,Kingston,27,Self-Employed,6567141,High,Verified
+2940,St. James,21,Employed,4090633,Medium,Verified
+2941,Clarendon,46,Employed,1982618,Low,Verified
+2942,Kingston,43,Self-Employed,2471179,High,Rejected
+2943,Manchester,46,Employed,895494,Low,Verified
+2944,St. Catherine,65,Self-Employed,6034320,High,Verified
+2945,St. Catherine,26,Self-Employed,3797439,Low,Verified
+2946,St. Catherine,26,Employed,4028409,Medium,Verified
+2947,Manchester,64,Unemployed,5698841,Low,Verified
+2948,Kingston,28,Unemployed,3814130,Medium,Verified
+2949,Manchester,44,Self-Employed,5711165,Low,Verified
+2950,St. Catherine,42,Unemployed,5547492,High,Verified
+2951,Clarendon,39,Unemployed,2911278,Low,Verified
+2952,St. James,57,Employed,4688832,Low,Verified
+2953,Manchester,38,Self-Employed,5335751,Medium,Verified
+2954,Manchester,51,Self-Employed,1016651,Low,Verified
+2955,Kingston,57,Employed,7420661,Low,Verified
+2956,Kingston,50,Unemployed,2340856,Low,Verified
+2957,Manchester,62,Self-Employed,7108434,Low,Verified
+2958,St. Catherine,53,Unemployed,4254520,Low,Verified
+2959,St. James,30,Self-Employed,6306079,Low,Verified
+2960,Kingston,57,Self-Employed,7167038,Low,Verified
+2961,St. Catherine,32,Self-Employed,1405502,Medium,Pending
+2962,Clarendon,50,Self-Employed,3335244,Medium,Verified
+2963,Kingston,47,Unemployed,2360155,Low,Verified
+2964,St. Catherine,59,Unemployed,5741824,High,Verified
+2965,St. Catherine,29,Unemployed,4840114,High,Verified
+2966,St. James,41,Unemployed,2411589,Low,Verified
+2967,St. James,32,Employed,7489927,Low,Pending
+2968,Clarendon,49,Self-Employed,1268163,High,Pending
+2969,St. Catherine,53,Self-Employed,1639812,Low,Verified
+2970,St. Catherine,63,Self-Employed,1570008,Low,Rejected
+2971,St. James,35,Employed,7669077,Low,Verified
+2972,Kingston,22,Unemployed,5298907,Medium,Verified
+2973,Kingston,59,Self-Employed,3800102,Low,Verified
+2974,Manchester,64,Unemployed,4731926,Medium,Verified
+2975,St. James,38,Unemployed,7389763,Medium,Verified
+2976,Manchester,23,Employed,6207923,Medium,Verified
+2977,St. James,27,Employed,6763389,High,Verified
+2978,Clarendon,63,Unemployed,1844654,Low,Verified
+2979,St. Catherine,38,Self-Employed,3178772,Medium,Verified
+2980,Clarendon,64,Self-Employed,4276452,Low,Verified
+2981,St. James,58,Employed,4197559,Low,Verified
+2982,St. Catherine,57,Employed,5886312,Low,Verified
+2983,Kingston,53,Employed,1148737,Low,Verified
+2984,Kingston,64,Employed,3621562,Low,Pending
+2985,Manchester,51,Employed,6540592,Low,Verified
+2986,St. James,31,Employed,2249299,Low,Pending
+2987,St. James,24,Employed,2312185,Medium,Verified
+2988,Kingston,38,Self-Employed,3564630,Low,Verified
+2989,Clarendon,24,Employed,981601,Medium,Pending
+2990,St. Catherine,69,Employed,5062986,Low,Verified
+2991,Clarendon,54,Self-Employed,4168737,Low,Verified
+2992,Clarendon,49,Self-Employed,3344544,Low,Verified
+2993,Kingston,44,Unemployed,2095129,Low,Verified
+2994,Kingston,42,Employed,4299585,Medium,Verified
+2995,Kingston,22,Employed,2214780,Low,Verified
+2996,Manchester,64,Employed,5654078,High,Pending
+2997,Clarendon,26,Employed,6125910,High,Verified
+2998,St. James,62,Unemployed,6163240,Low,Verified
+2999,St. Catherine,45,Self-Employed,2828217,Medium,Pending
+3000,Manchester,41,Self-Employed,1459297,Low,Verified
